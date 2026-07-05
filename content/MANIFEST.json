@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-06-17T17:37:43.944Z",
+  "copyright": "Original OfficeMitra content — not copied from third-party sites",
+  "notice": "content/ORIGINAL-CONTENT-NOTICE.md",
+  "counts": {
+    "articles": 140,
+    "procedures": 140,
+    "updates": 140,
+    "documents": 140,
+    "templates": 140,
+    "faq": 140,
+    "glossary": 140
+  },
+  "paths": {
+    "articles": "content/articles/**/*.md",
+    "procedures": "content/procedures/**/*.md",
+    "updates": "content/updates/**/*.md",
+    "documents": "content/documents/metadata.json",
+    "document_pdfs": "public/downloads/documents/*.pdf",
+    "templates": "content/templates/metadata.json",
+    "template_pdfs": "public/downloads/templates/*.pdf",
+    "faq": "content/faq/items.json",
+    "glossary": "content/glossary/terms.json",
+    "tools": "lib/tools/ + app/tools/"
+  },
+  "maintenance": {
+    "deduped_markdown": 0,
+    "status_fixed": 0,
+    "pdfs_created": 0,
+    "orphan_pdfs_removed": 0
+  }
+}

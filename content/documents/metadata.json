@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "go-aas-stagnation",
+    "title": "AAS Stagnation Increment — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for AAS Stagnation Increment — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "AAS Stagnation Increment",
+    "related_articles": [
+      "aas-stagnation-office-guide"
+    ],
+    "related_procedures": [
+      "aas-stagnation-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-aas-stagnation.pdf"
+  },
+  {
+    "id": "go-acr-maintenance",
+    "title": "ACR Maintenance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for ACR Maintenance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "ACR Maintenance",
+    "related_articles": [
+      "acr-maintenance"
+    ],
+    "related_procedures": [
+      "acr-maintenance-procedure"
+    ],
+    "file": "/downloads/documents/go-acr-maintenance.pdf"
+  },
+  {
+    "id": "go-annual-increment",
+    "title": "Annual Increment — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Annual Increment — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Annual Increment",
+    "related_articles": [
+      "annual-increment-office-guide"
+    ],
+    "related_procedures": [
+      "annual-increment-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-annual-increment.pdf"
+  },
+  {
+    "id": "go-ap-civil-services-conduct-rules",
+    "title": "AP Civil Services Conduct Rules Explained — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "conduct",
+    "year": 2026,
+    "subject": "Official GO reference pack for AP Civil Services Conduct Rules Explained — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "AP Civil Services Conduct Rules Explained",
+    "related_articles": [
+      "ap-civil-services-conduct-rules"
+    ],
+    "related_procedures": [
+      "ap-civil-services-conduct-rules-procedure"
+    ],
+    "file": "/downloads/documents/go-ap-civil-services-conduct-rules.pdf"
+  },
+  {
+    "id": "go-apgli",
+    "title": "Apgli — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Apgli — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Apgli",
+    "related_articles": [
+      "apgli-common-mistakes"
+    ],
+    "related_procedures": [
+      "apgli-common-mistakes-procedure"
+    ],
+    "file": "/downloads/documents/go-apgli.pdf"
+  },
+  {
+    "id": "go-apgli-closure",
+    "title": "APGLI Closure — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "apgli",
+    "year": 2026,
+    "subject": "Official GO reference pack for APGLI Closure — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "APGLI Closure",
+    "related_articles": [
+      "apgli-closure"
+    ],
+    "related_procedures": [
+      "apgli-closure-procedure"
+    ],
+    "file": "/downloads/documents/go-apgli-closure.pdf"
+  },
+  {
+    "id": "go-apgli-loan",
+    "title": "APGLI Loan — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "apgli",
+    "year": 2026,
+    "subject": "Official GO reference pack for APGLI Loan — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "APGLI Loan",
+    "related_articles": [
+      "apgli-loan"
+    ],
+    "related_procedures": [
+      "apgli-loan-procedure"
+    ],
+    "file": "/downloads/documents/go-apgli-loan.pdf"
+  },
+  {
+    "id": "go-apgli-loan-application",
+    "title": "APGLI Loan Application Guide — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "apgli",
+    "year": 2026,
+    "subject": "Official GO reference pack for APGLI Loan Application Guide — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "APGLI Loan Application Guide",
+    "related_articles": [
+      "apgli-loan-application"
+    ],
+    "related_procedures": [
+      "apgli-loan-application-procedure"
+    ],
+    "file": "/downloads/documents/go-apgli-loan-application.pdf"
+  },
+  {
+    "id": "go-apgli-maturity-claim",
+    "title": "APGLI Maturity Claim Process — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "apgli",
+    "year": 2026,
+    "subject": "Official GO reference pack for APGLI Maturity Claim Process — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "APGLI Maturity Claim Process",
+    "related_articles": [
+      "apgli-maturity-claim"
+    ],
+    "related_procedures": [
+      "apgli-maturity-claim-procedure"
+    ],
+    "file": "/downloads/documents/go-apgli-maturity-claim.pdf"
+  },
+  {
+    "id": "go-apgli-policy-registration",
+    "title": "APGLI Policy Registration Process — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "apgli",
+    "year": 2026,
+    "subject": "Official GO reference pack for APGLI Policy Registration Process — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "APGLI Policy Registration Process",
+    "related_articles": [
+      "apgli-policy-registration"
+    ],
+    "related_procedures": [
+      "apgli-policy-registration-procedure"
+    ],
+    "file": "/downloads/documents/go-apgli-policy-registration.pdf"
+  },
+  {
+    "id": "go-apgli-premium",
+    "title": "APGLI Premium — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "apgli",
+    "year": 2026,
+    "subject": "Official GO reference pack for APGLI Premium — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "APGLI Premium",
+    "related_articles": [
+      "apgli-premium"
+    ],
+    "related_procedures": [
+      "apgli-premium-procedure"
+    ],
+    "file": "/downloads/documents/go-apgli-premium.pdf"
+  },
+  {
+    "id": "go-apgli-premium-revision",
+    "title": "APGLI Premium Revision Procedure — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "apgli",
+    "year": 2026,
+    "subject": "Official GO reference pack for APGLI Premium Revision Procedure — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "APGLI Premium Revision Procedure",
+    "related_articles": [
+      "apgli-premium-revision"
+    ],
+    "related_procedures": [
+      "apgli-premium-revision-procedure"
+    ],
+    "file": "/downloads/documents/go-apgli-premium-revision.pdf"
+  },
+  {
+    "id": "go-apmsidc-procurement",
+    "title": "APMSIDC Procurement Workflow — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "health",
+    "year": 2026,
+    "subject": "Official GO reference pack for APMSIDC Procurement Workflow — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "APMSIDC Procurement Workflow",
+    "related_articles": [
+      "apmsidc-procurement"
+    ],
+    "related_procedures": [
+      "apmsidc-procurement-procedure"
+    ],
+    "file": "/downloads/documents/go-apmsidc-procurement.pdf"
+  },
+  {
+    "id": "go-bcr-attendance",
+    "title": "BCR Attendance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for BCR Attendance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "BCR Attendance",
+    "related_articles": [
+      "bcr-attendance-office-guide"
+    ],
+    "related_procedures": [
+      "bcr-attendance-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-bcr-attendance.pdf"
+  },
+  {
+    "id": "go-biomedical-waste-compliance",
+    "title": "Biomedical Waste Compliance Checklist — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "health",
+    "year": 2026,
+    "subject": "Official GO reference pack for Biomedical Waste Compliance Checklist — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Biomedical Waste Compliance Checklist",
+    "related_articles": [
+      "biomedical-waste-compliance"
+    ],
+    "related_procedures": [
+      "biomedical-waste-compliance-procedure"
+    ],
+    "file": "/downloads/documents/go-biomedical-waste-compliance.pdf"
+  },
+  {
+    "id": "go-bcr-maintenance",
+    "title": "Budget Control Register (BCR) Maintenance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Budget Control Register (BCR) Maintenance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Budget Control Register (BCR) Maintenance",
+    "related_articles": [
+      "bcr-maintenance"
+    ],
+    "related_procedures": [
+      "bcr-maintenance-procedure"
+    ],
+    "file": "/downloads/documents/go-bcr-maintenance.pdf"
+  },
+  {
+    "id": "go-certificate-attestation",
+    "title": "Certificate Attestation — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Certificate Attestation — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Certificate Attestation",
+    "related_articles": [
+      "certificate-attestation-office-guide"
+    ],
+    "related_procedures": [
+      "certificate-attestation-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-certificate-attestation.pdf"
+  },
+  {
+    "id": "go-cfms-bill-processing",
+    "title": "CFMS Bill Processing Guide — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for CFMS Bill Processing Guide — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "CFMS Bill Processing Guide",
+    "related_articles": [
+      "cfms-bill-processing"
+    ],
+    "related_procedures": [
+      "cfms-bill-processing-procedure"
+    ],
+    "file": "/downloads/documents/go-cfms-bill-processing.pdf"
+  },
+  {
+    "id": "go-cfms-pay-bill",
+    "title": "CFMS Pay Bill — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "treasury",
+    "year": 2026,
+    "subject": "Official GO reference pack for CFMS Pay Bill — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "CFMS Pay Bill",
+    "related_articles": [
+      "cfms-pay-bill"
+    ],
+    "related_procedures": [
+      "cfms-pay-bill-procedure"
+    ],
+    "file": "/downloads/documents/go-cfms-pay-bill.pdf"
+  },
+  {
+    "id": "go-charge-memo",
+    "title": "Charge Memo — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "conduct",
+    "year": 2026,
+    "subject": "Official GO reference pack for Charge Memo — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Charge Memo",
+    "related_articles": [
+      "charge-memo-office-guide"
+    ],
+    "related_procedures": [
+      "charge-memo-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-charge-memo.pdf"
+  },
+  {
+    "id": "go-charge-memo-preparation",
+    "title": "Charge Memo Preparation Guide — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "conduct",
+    "year": 2026,
+    "subject": "Official GO reference pack for Charge Memo Preparation Guide — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Charge Memo Preparation Guide",
+    "related_articles": [
+      "charge-memo-preparation"
+    ],
+    "related_procedures": [
+      "charge-memo-preparation-procedure"
+    ],
+    "file": "/downloads/documents/go-charge-memo-preparation.pdf"
+  },
+  {
+    "id": "go-ccl-rules",
+    "title": "Child Care Leave — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Child Care Leave — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Child Care Leave",
+    "related_articles": [
+      "ccl-rules"
+    ],
+    "related_procedures": [
+      "ccl-rules-procedure"
+    ],
+    "file": "/downloads/documents/go-ccl-rules.pdf"
+  },
+  {
+    "id": "go-child-care-leave",
+    "title": "Child Care Leave Guidelines — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Child Care Leave Guidelines — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Child Care Leave Guidelines",
+    "related_articles": [
+      "child-care-leave"
+    ],
+    "related_procedures": [
+      "child-care-leave-procedure"
+    ],
+    "file": "/downloads/documents/go-child-care-leave.pdf"
+  },
+  {
+    "id": "go-apgli-common-mistakes",
+    "title": "Common APGLI Mistakes and Solutions — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "apgli",
+    "year": 2026,
+    "subject": "Official GO reference pack for Common APGLI Mistakes and Solutions — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Common APGLI Mistakes and Solutions",
+    "related_articles": [
+      "apgli-common-mistakes"
+    ],
+    "related_procedures": [
+      "apgli-common-mistakes-procedure"
+    ],
+    "file": "/downloads/documents/go-apgli-common-mistakes.pdf"
+  },
+  {
+    "id": "go-commuted-leave-rules",
+    "title": "Commuted Leave Procedure — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Commuted Leave Procedure — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Commuted Leave Procedure",
+    "related_articles": [
+      "commuted-leave-rules"
+    ],
+    "related_procedures": [
+      "commuted-leave-rules-procedure"
+    ],
+    "file": "/downloads/documents/go-commuted-leave-rules.pdf"
+  },
+  {
+    "id": "go-compassionate-appointment",
+    "title": "Compassionate Appointment Guidelines — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Compassionate Appointment Guidelines — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Compassionate Appointment Guidelines",
+    "related_articles": [
+      "compassionate-appointment"
+    ],
+    "related_procedures": [
+      "compassionate-appointment-procedure"
+    ],
+    "file": "/downloads/documents/go-compassionate-appointment.pdf"
+  },
+  {
+    "id": "go-contingent-bill-preparation",
+    "title": "Contingent Bill Preparation — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Contingent Bill Preparation — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Contingent Bill Preparation",
+    "related_articles": [
+      "contingent-bill-preparation"
+    ],
+    "related_procedures": [
+      "contingent-bill-preparation-procedure"
+    ],
+    "file": "/downloads/documents/go-contingent-bill-preparation.pdf"
+  },
+  {
+    "id": "go-conveyance-allowance",
+    "title": "Conveyance Allowance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Conveyance Allowance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Conveyance Allowance",
+    "related_articles": [
+      "conveyance-allowance"
+    ],
+    "related_procedures": [
+      "conveyance-allowance-procedure"
+    ],
+    "file": "/downloads/documents/go-conveyance-allowance.pdf"
+  },
+  {
+    "id": "go-da-arrears",
+    "title": "DA Arrears — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for DA Arrears — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "DA Arrears",
+    "related_articles": [
+      "da-arrears"
+    ],
+    "related_procedures": [
+      "da-arrears-procedure"
+    ],
+    "file": "/downloads/documents/go-da-arrears.pdf"
+  },
+  {
+    "id": "go-ddo-it-declaration",
+    "title": "DDO IT Declaration — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for DDO IT Declaration — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "DDO IT Declaration",
+    "related_articles": [
+      "ddo-it-declaration"
+    ],
+    "related_procedures": [
+      "ddo-it-declaration-procedure"
+    ],
+    "file": "/downloads/documents/go-ddo-it-declaration.pdf"
+  },
+  {
+    "id": "go-approved-probation-declaration",
+    "title": "Declaration of Approved Probation — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Declaration of Approved Probation — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Declaration of Approved Probation",
+    "related_articles": [
+      "approved-probation-declaration"
+    ],
+    "related_procedures": [
+      "approved-probation-declaration-procedure"
+    ],
+    "file": "/downloads/documents/go-approved-probation-declaration.pdf"
+  },
+  {
+    "id": "go-delegation-financial-powers",
+    "title": "Delegation of Financial Powers Explained — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Delegation of Financial Powers Explained — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Delegation of Financial Powers Explained",
+    "related_articles": [
+      "delegation-financial-powers"
+    ],
+    "related_procedures": [
+      "delegation-financial-powers-procedure"
+    ],
+    "file": "/downloads/documents/go-delegation-financial-powers.pdf"
+  },
+  {
+    "id": "go-departmental-enquiry",
+    "title": "Departmental Enquiry Process — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "conduct",
+    "year": 2026,
+    "subject": "Official GO reference pack for Departmental Enquiry Process — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Departmental Enquiry Process",
+    "related_articles": [
+      "departmental-enquiry"
+    ],
+    "related_procedures": [
+      "departmental-enquiry-procedure"
+    ],
+    "file": "/downloads/documents/go-departmental-enquiry.pdf"
+  },
+  {
+    "id": "go-dha-responsibilities",
+    "title": "District Hospital Administrative Officer Responsibilities — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "health",
+    "year": 2026,
+    "subject": "Official GO reference pack for District Hospital Administrative Officer Responsibilities — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "District Hospital Administrative Officer Responsibilities",
+    "related_articles": [
+      "dha-responsibilities"
+    ],
+    "related_procedures": [
+      "dha-responsibilities-procedure"
+    ],
+    "file": "/downloads/documents/go-dha-responsibilities.pdf"
+  },
+  {
+    "id": "go-e-procurement-rules",
+    "title": "E-Procurement Rules Above ₹1 Lakh — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for E-Procurement Rules Above ₹1 Lakh — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "E-Procurement Rules Above ₹1 Lakh",
+    "related_articles": [
+      "e-procurement-rules"
+    ],
+    "related_procedures": [
+      "e-procurement-rules-procedure"
+    ],
+    "file": "/downloads/documents/go-e-procurement-rules.pdf"
+  },
+  {
+    "id": "go-earned-leave",
+    "title": "Earned Leave Account — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Earned Leave Account — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Earned Leave Account",
+    "related_articles": [
+      "earned-leave"
+    ],
+    "related_procedures": [
+      "earned-leave-procedure"
+    ],
+    "file": "/downloads/documents/go-earned-leave.pdf"
+  },
+  {
+    "id": "go-earned-leave-rules",
+    "title": "Earned Leave Rules Explained — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Earned Leave Rules Explained — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Earned Leave Rules Explained",
+    "related_articles": [
+      "earned-leave-rules"
+    ],
+    "related_procedures": [
+      "earned-leave-rules-procedure"
+    ],
+    "file": "/downloads/documents/go-earned-leave-rules.pdf"
+  },
+  {
+    "id": "go-ehs-referral",
+    "title": "EHS Referral — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "health",
+    "year": 2026,
+    "subject": "Official GO reference pack for EHS Referral — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "EHS Referral",
+    "related_articles": [
+      "ehs-referral"
+    ],
+    "related_procedures": [
+      "ehs-referral-procedure"
+    ],
+    "file": "/downloads/documents/go-ehs-referral.pdf"
+  },
+  {
+    "id": "go-el-encashment",
+    "title": "EL Encashment — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for EL Encashment — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "EL Encashment",
+    "related_articles": [
+      "el-encashment"
+    ],
+    "related_procedures": [
+      "el-encashment-procedure"
+    ],
+    "file": "/downloads/documents/go-el-encashment.pdf"
+  },
+  {
+    "id": "go-ex-gratia-claim",
+    "title": "Ex-Gratia Claim — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Ex-Gratia Claim — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Ex-Gratia Claim",
+    "related_articles": [
+      "ex-gratia-claim"
+    ],
+    "related_procedures": [
+      "ex-gratia-claim-procedure"
+    ],
+    "file": "/downloads/documents/go-ex-gratia-claim.pdf"
+  },
+  {
+    "id": "go-extraordinary-leave",
+    "title": "Extraordinary Leave Procedure — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Extraordinary Leave Procedure — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Extraordinary Leave Procedure",
+    "related_articles": [
+      "extraordinary-leave"
+    ],
+    "related_procedures": [
+      "extraordinary-leave-procedure"
+    ],
+    "file": "/downloads/documents/go-extraordinary-leave.pdf"
+  },
+  {
+    "id": "go-festival-advance",
+    "title": "Festival Advance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Festival Advance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Festival Advance",
+    "related_articles": [
+      "festival-advance"
+    ],
+    "related_procedures": [
+      "festival-advance-procedure"
+    ],
+    "file": "/downloads/documents/go-festival-advance.pdf"
+  },
+  {
+    "id": "go-file-noting",
+    "title": "File Noting & Correspondence — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for File Noting & Correspondence — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "File Noting & Correspondence",
+    "related_articles": [
+      "file-noting"
+    ],
+    "related_procedures": [
+      "file-noting-procedure"
+    ],
+    "file": "/downloads/documents/go-file-noting.pdf"
+  },
+  {
+    "id": "go-gpf-final-settlement",
+    "title": "Final GPF Settlement Process — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "gpf",
+    "year": 2026,
+    "subject": "Official GO reference pack for Final GPF Settlement Process — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Final GPF Settlement Process",
+    "related_articles": [
+      "gpf-final-settlement"
+    ],
+    "related_procedures": [
+      "gpf-final-settlement-procedure"
+    ],
+    "file": "/downloads/documents/go-gpf-final-settlement.pdf"
+  },
+  {
+    "id": "go-form-12bb",
+    "title": "Form 12BB Investment Proof — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Form 12BB Investment Proof — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Form 12BB Investment Proof",
+    "related_articles": [
+      "form-12bb"
+    ],
+    "related_procedures": [
+      "form-12bb-procedure"
+    ],
+    "file": "/downloads/documents/go-form-12bb.pdf"
+  },
+  {
+    "id": "go-funeral-advance",
+    "title": "Funeral Advance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Funeral Advance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Funeral Advance",
+    "related_articles": [
+      "funeral-advance"
+    ],
+    "related_procedures": [
+      "funeral-advance-procedure"
+    ],
+    "file": "/downloads/documents/go-funeral-advance.pdf"
+  },
+  {
+    "id": "go-gis-final-payment",
+    "title": "GIS Final Payment — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for GIS Final Payment — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "GIS Final Payment",
+    "related_articles": [
+      "gis-final-payment"
+    ],
+    "related_procedures": [
+      "gis-final-payment-procedure"
+    ],
+    "file": "/downloads/documents/go-gis-final-payment.pdf"
+  },
+  {
+    "id": "go-gpf-advance",
+    "title": "GPF Advance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "gpf",
+    "year": 2026,
+    "subject": "Official GO reference pack for GPF Advance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "GPF Advance",
+    "related_articles": [
+      "gpf-advance"
+    ],
+    "related_procedures": [
+      "gpf-advance-procedure"
+    ],
+    "file": "/downloads/documents/go-gpf-advance.pdf"
+  },
+  {
+    "id": "go-gpf-final-payment",
+    "title": "GPF Final Payment — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "gpf",
+    "year": 2026,
+    "subject": "Official GO reference pack for GPF Final Payment — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "GPF Final Payment",
+    "related_articles": [
+      "gpf-final-payment"
+    ],
+    "related_procedures": [
+      "gpf-final-payment-procedure"
+    ],
+    "file": "/downloads/documents/go-gpf-final-payment.pdf"
+  },
+  {
+    "id": "go-gpf-nomination-corrections",
+    "title": "GPF Nomination and Corrections — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "gpf",
+    "year": 2026,
+    "subject": "Official GO reference pack for GPF Nomination and Corrections — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "GPF Nomination and Corrections",
+    "related_articles": [
+      "gpf-nomination-corrections"
+    ],
+    "related_procedures": [
+      "gpf-nomination-corrections-procedure"
+    ],
+    "file": "/downloads/documents/go-gpf-nomination-corrections.pdf"
+  },
+  {
+    "id": "go-gpf-subscription",
+    "title": "GPF Subscription — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "gpf",
+    "year": 2026,
+    "subject": "Official GO reference pack for GPF Subscription — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "GPF Subscription",
+    "related_articles": [
+      "gpf-subscription"
+    ],
+    "related_procedures": [
+      "gpf-subscription-procedure"
+    ],
+    "file": "/downloads/documents/go-gpf-subscription.pdf"
+  },
+  {
+    "id": "go-gpf-withdrawal-rules",
+    "title": "GPF Withdrawal Rules — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "gpf",
+    "year": 2026,
+    "subject": "Official GO reference pack for GPF Withdrawal Rules — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "GPF Withdrawal Rules",
+    "related_articles": [
+      "gpf-withdrawal-rules"
+    ],
+    "related_procedures": [
+      "gpf-withdrawal-rules-procedure"
+    ],
+    "file": "/downloads/documents/go-gpf-withdrawal-rules.pdf"
+  },
+  {
+    "id": "go-hpl-sanction",
+    "title": "Half Pay Leave — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Half Pay Leave — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Half Pay Leave",
+    "related_articles": [
+      "hpl-sanction"
+    ],
+    "related_procedures": [
+      "hpl-sanction-procedure"
+    ],
+    "file": "/downloads/documents/go-hpl-sanction.pdf"
+  },
+  {
+    "id": "go-half-pay-leave-procedure",
+    "title": "Half Pay Leave Procedure — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Half Pay Leave Procedure — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Half Pay Leave Procedure",
+    "related_articles": [
+      "half-pay-leave-procedure"
+    ],
+    "related_procedures": [
+      "half-pay-leave-procedure-procedure"
+    ],
+    "file": "/downloads/documents/go-half-pay-leave-procedure.pdf"
+  },
+  {
+    "id": "go-hospital-condemnation",
+    "title": "Hospital Condemnation Procedure — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "health",
+    "year": 2026,
+    "subject": "Official GO reference pack for Hospital Condemnation Procedure — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Hospital Condemnation Procedure",
+    "related_articles": [
+      "hospital-condemnation"
+    ],
+    "related_procedures": [
+      "hospital-condemnation-procedure"
+    ],
+    "file": "/downloads/documents/go-hospital-condemnation.pdf"
+  },
+  {
+    "id": "go-hra-claim",
+    "title": "HRA Claim — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for HRA Claim — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "HRA Claim",
+    "related_articles": [
+      "hra-claim"
+    ],
+    "related_procedures": [
+      "hra-claim-procedure"
+    ],
+    "file": "/downloads/documents/go-hra-claim.pdf"
+  },
+  {
+    "id": "go-increment-sanction",
+    "title": "Increment Sanction Procedure — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Increment Sanction Procedure — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Increment Sanction Procedure",
+    "related_articles": [
+      "increment-sanction"
+    ],
+    "related_procedures": [
+      "increment-sanction-procedure"
+    ],
+    "file": "/downloads/documents/go-increment-sanction.pdf"
+  },
+  {
+    "id": "go-joining-time-rules",
+    "title": "Joining Time Rules Explained — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Joining Time Rules Explained — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Joining Time Rules Explained",
+    "related_articles": [
+      "joining-time-rules"
+    ],
+    "related_procedures": [
+      "joining-time-rules-procedure"
+    ],
+    "file": "/downloads/documents/go-joining-time-rules.pdf"
+  },
+  {
+    "id": "go-leave-account-maintenance",
+    "title": "Leave Account Maintenance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Leave Account Maintenance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Leave Account Maintenance",
+    "related_articles": [
+      "leave-account-maintenance"
+    ],
+    "related_procedures": [
+      "leave-account-maintenance-procedure"
+    ],
+    "file": "/downloads/documents/go-leave-account-maintenance.pdf"
+  },
+  {
+    "id": "go-leave-accrual",
+    "title": "Leave Accrual — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Leave Accrual — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Leave Accrual",
+    "related_articles": [
+      "leave-accrual"
+    ],
+    "related_procedures": [
+      "leave-accrual-procedure"
+    ],
+    "file": "/downloads/documents/go-leave-accrual.pdf"
+  },
+  {
+    "id": "go-leave-encashment-rules",
+    "title": "Leave Encashment Rules — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Leave Encashment Rules — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Leave Encashment Rules",
+    "related_articles": [
+      "leave-encashment-rules"
+    ],
+    "related_procedures": [
+      "leave-encashment-rules-procedure"
+    ],
+    "file": "/downloads/documents/go-leave-encashment-rules.pdf"
+  },
+  {
+    "id": "go-leave-salary-bill",
+    "title": "Leave Salary Bill — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "treasury",
+    "year": 2026,
+    "subject": "Official GO reference pack for Leave Salary Bill — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Leave Salary Bill",
+    "related_articles": [
+      "leave-salary-bill"
+    ],
+    "related_procedures": [
+      "leave-salary-bill-procedure"
+    ],
+    "file": "/downloads/documents/go-leave-salary-bill.pdf"
+  },
+  {
+    "id": "go-lok-adalat-settlement",
+    "title": "Lok Adalat Settlement — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "conduct",
+    "year": 2026,
+    "subject": "Official GO reference pack for Lok Adalat Settlement — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Lok Adalat Settlement",
+    "related_articles": [
+      "lok-adalat-settlement"
+    ],
+    "related_procedures": [
+      "lok-adalat-settlement-procedure"
+    ],
+    "file": "/downloads/documents/go-lok-adalat-settlement.pdf"
+  },
+  {
+    "id": "go-lpc-preparation",
+    "title": "LPC Preparation — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for LPC Preparation — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "LPC Preparation",
+    "related_articles": [
+      "lpc-preparation-office-guide"
+    ],
+    "related_procedures": [
+      "lpc-preparation-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-lpc-preparation.pdf"
+  },
+  {
+    "id": "go-macp-benefit",
+    "title": "MACP Benefit — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for MACP Benefit — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "MACP Benefit",
+    "related_articles": [
+      "macp-benefit-office-guide"
+    ],
+    "related_procedures": [
+      "macp-benefit-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-macp-benefit.pdf"
+  },
+  {
+    "id": "go-maternity-leave",
+    "title": "Maternity Leave — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Maternity Leave — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Maternity Leave",
+    "related_articles": [
+      "maternity-leave"
+    ],
+    "related_procedures": [
+      "maternity-leave-procedure"
+    ],
+    "file": "/downloads/documents/go-maternity-leave.pdf"
+  },
+  {
+    "id": "go-maternity-leave-rules",
+    "title": "Maternity Leave Rules (Latest Amendments) — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Maternity Leave Rules (Latest Amendments) — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Maternity Leave Rules (Latest Amendments)",
+    "related_articles": [
+      "maternity-leave-rules"
+    ],
+    "related_procedures": [
+      "maternity-leave-rules-procedure"
+    ],
+    "file": "/downloads/documents/go-maternity-leave-rules.pdf"
+  },
+  {
+    "id": "go-medical-reimbursement",
+    "title": "Medical Reimbursement — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "health",
+    "year": 2026,
+    "subject": "Official GO reference pack for Medical Reimbursement — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Medical Reimbursement",
+    "related_articles": [
+      "medical-reimbursement"
+    ],
+    "related_procedures": [
+      "medical-reimbursement-procedure"
+    ],
+    "file": "/downloads/documents/go-medical-reimbursement.pdf"
+  },
+  {
+    "id": "go-minor-major-penalty",
+    "title": "Minor Penalty vs Major Penalty Proceedings — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "conduct",
+    "year": 2026,
+    "subject": "Official GO reference pack for Minor Penalty vs Major Penalty Proceedings — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Minor Penalty vs Major Penalty Proceedings",
+    "related_articles": [
+      "minor-major-penalty"
+    ],
+    "related_procedures": [
+      "minor-major-penalty-procedure"
+    ],
+    "file": "/downloads/documents/go-minor-major-penalty.pdf"
+  },
+  {
+    "id": "go-gpf-missing-credits",
+    "title": "Missing GPF Credits – What to Do — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "gpf",
+    "year": 2026,
+    "subject": "Official GO reference pack for Missing GPF Credits – What to Do — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Missing GPF Credits – What to Do",
+    "related_articles": [
+      "gpf-missing-credits"
+    ],
+    "related_procedures": [
+      "gpf-missing-credits-procedure"
+    ],
+    "file": "/downloads/documents/go-gpf-missing-credits.pdf"
+  },
+  {
+    "id": "go-night-duty-allowance",
+    "title": "Night Duty Allowance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Night Duty Allowance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Night Duty Allowance",
+    "related_articles": [
+      "night-duty-allowance"
+    ],
+    "related_procedures": [
+      "night-duty-allowance-procedure"
+    ],
+    "file": "/downloads/documents/go-night-duty-allowance.pdf"
+  },
+  {
+    "id": "go-noc-passport",
+    "title": "NOC for Passport — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for NOC for Passport — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "NOC for Passport",
+    "related_articles": [
+      "noc-passport-office-guide"
+    ],
+    "related_procedures": [
+      "noc-passport-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-noc-passport.pdf"
+  },
+  {
+    "id": "go-ndc-certificate",
+    "title": "Non-Drawal Certificate — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Non-Drawal Certificate — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Non-Drawal Certificate",
+    "related_articles": [
+      "ndc-certificate-office-guide"
+    ],
+    "related_procedures": [
+      "ndc-certificate-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-ndc-certificate.pdf"
+  },
+  {
+    "id": "go-office-order-drafting",
+    "title": "Office Order Drafting — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Office Order Drafting — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Office Order Drafting",
+    "related_articles": [
+      "office-order-drafting"
+    ],
+    "related_procedures": [
+      "office-order-drafting-procedure"
+    ],
+    "file": "/downloads/documents/go-office-order-drafting.pdf"
+  },
+  {
+    "id": "go-outsourcing-staff-management",
+    "title": "Outsourcing Staff Management Guidelines — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "health",
+    "year": 2026,
+    "subject": "Official GO reference pack for Outsourcing Staff Management Guidelines — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Outsourcing Staff Management Guidelines",
+    "related_articles": [
+      "outsourcing-staff-management"
+    ],
+    "related_procedures": [
+      "outsourcing-staff-management-procedure"
+    ],
+    "file": "/downloads/documents/go-outsourcing-staff-management.pdf"
+  },
+  {
+    "id": "go-pay-fixation-promotion",
+    "title": "Pay Fixation on Promotion — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Pay Fixation on Promotion — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Pay Fixation on Promotion",
+    "related_articles": [
+      "pay-fixation-promotion-office-guide"
+    ],
+    "related_procedures": [
+      "pay-fixation-promotion-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-pay-fixation-promotion.pdf"
+  },
+  {
+    "id": "go-pay-fixation-fr-22b",
+    "title": "Pay Fixation under FR 22-B — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Pay Fixation under FR 22-B — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Pay Fixation under FR 22-B",
+    "related_articles": [
+      "pay-fixation-fr-22b"
+    ],
+    "related_procedures": [
+      "pay-fixation-fr-22b-procedure"
+    ],
+    "file": "/downloads/documents/go-pay-fixation-fr-22b.pdf"
+  },
+  {
+    "id": "go-pension-proposal",
+    "title": "Pension Proposal — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Pension Proposal — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Pension Proposal",
+    "related_articles": [
+      "pension-proposal"
+    ],
+    "related_procedures": [
+      "pension-proposal-procedure"
+    ],
+    "file": "/downloads/documents/go-pension-proposal.pdf"
+  },
+  {
+    "id": "go-prc-2022-fixation",
+    "title": "PRC 2022 Pay Fixation — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for PRC 2022 Pay Fixation — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "PRC 2022 Pay Fixation",
+    "related_articles": [
+      "prc-2022-fixation"
+    ],
+    "related_procedures": [
+      "prc-2022-fixation-procedure"
+    ],
+    "file": "/downloads/documents/go-prc-2022-fixation.pdf"
+  },
+  {
+    "id": "go-promotion-panel-preparation",
+    "title": "Preparation of Promotion Panels — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Preparation of Promotion Panels — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Preparation of Promotion Panels",
+    "related_articles": [
+      "promotion-panel-preparation"
+    ],
+    "related_procedures": [
+      "promotion-panel-preparation-procedure"
+    ],
+    "file": "/downloads/documents/go-promotion-panel-preparation.pdf"
+  },
+  {
+    "id": "go-seniority-list-preparation",
+    "title": "Preparation of Seniority Lists — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Preparation of Seniority Lists — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Preparation of Seniority Lists",
+    "related_articles": [
+      "seniority-list-preparation"
+    ],
+    "related_procedures": [
+      "seniority-list-preparation-procedure"
+    ],
+    "file": "/downloads/documents/go-seniority-list-preparation.pdf"
+  },
+  {
+    "id": "go-probation-declaration",
+    "title": "Probation Declaration — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Probation Declaration — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Probation Declaration",
+    "related_articles": [
+      "probation-declaration-office-guide"
+    ],
+    "related_procedures": [
+      "probation-declaration-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-probation-declaration.pdf"
+  },
+  {
+    "id": "go-promotion-process",
+    "title": "Promotion Process — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Promotion Process — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Promotion Process",
+    "related_articles": [
+      "promotion-process-step-by-step"
+    ],
+    "related_procedures": [
+      "promotion-process-step-by-step-procedure"
+    ],
+    "file": "/downloads/documents/go-promotion-process.pdf"
+  },
+  {
+    "id": "go-promotion-process-step-by-step",
+    "title": "Promotion Process – Step by Step — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Promotion Process – Step by Step — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Promotion Process – Step by Step",
+    "related_articles": [
+      "promotion-process-step-by-step"
+    ],
+    "related_procedures": [
+      "promotion-process-step-by-step-procedure"
+    ],
+    "file": "/downloads/documents/go-promotion-process-step-by-step.pdf"
+  },
+  {
+    "id": "go-promotion-seniority",
+    "title": "Promotion Seniority — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Promotion Seniority — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Promotion Seniority",
+    "related_articles": [
+      "promotion-seniority"
+    ],
+    "related_procedures": [
+      "promotion-seniority-procedure"
+    ],
+    "file": "/downloads/documents/go-promotion-seniority.pdf"
+  },
+  {
+    "id": "go-rbps-retirement",
+    "title": "RBPS Retirement Benefits — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for RBPS Retirement Benefits — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "RBPS Retirement Benefits",
+    "related_articles": [
+      "rbps-retirement"
+    ],
+    "related_procedures": [
+      "rbps-retirement-procedure"
+    ],
+    "file": "/downloads/documents/go-rbps-retirement.pdf"
+  },
+  {
+    "id": "go-relinquishment-promotion-rule-28",
+    "title": "Relinquishment of Promotion under Rule 28 — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Relinquishment of Promotion under Rule 28 — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Relinquishment of Promotion under Rule 28",
+    "related_articles": [
+      "relinquishment-promotion-rule-28"
+    ],
+    "related_procedures": [
+      "relinquishment-promotion-rule-28-procedure"
+    ],
+    "file": "/downloads/documents/go-relinquishment-promotion-rule-28.pdf"
+  },
+  {
+    "id": "go-reservation-rules-promotions",
+    "title": "Reservation Rules in Promotions — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Reservation Rules in Promotions — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Reservation Rules in Promotions",
+    "related_articles": [
+      "reservation-rules-promotions"
+    ],
+    "related_procedures": [
+      "reservation-rules-promotions-procedure"
+    ],
+    "file": "/downloads/documents/go-reservation-rules-promotions.pdf"
+  },
+  {
+    "id": "go-retirement-proceedings",
+    "title": "Retirement Proceedings — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Retirement Proceedings — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Retirement Proceedings",
+    "related_articles": [
+      "retirement-proceedings"
+    ],
+    "related_procedures": [
+      "retirement-proceedings-procedure"
+    ],
+    "file": "/downloads/documents/go-retirement-proceedings.pdf"
+  },
+  {
+    "id": "go-retirement-processing",
+    "title": "Retirement Processing Checklist — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Retirement Processing Checklist — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Retirement Processing Checklist",
+    "related_articles": [
+      "retirement-processing"
+    ],
+    "related_procedures": [
+      "retirement-processing-procedure"
+    ],
+    "file": "/downloads/documents/go-retirement-processing.pdf"
+  },
+  {
+    "id": "go-risk-allowance",
+    "title": "Risk Allowance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Risk Allowance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Risk Allowance",
+    "related_articles": [
+      "risk-allowance"
+    ],
+    "related_procedures": [
+      "risk-allowance-procedure"
+    ],
+    "file": "/downloads/documents/go-risk-allowance.pdf"
+  },
+  {
+    "id": "go-rti-reply",
+    "title": "RTI Reply Preparation — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for RTI Reply Preparation — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "RTI Reply Preparation",
+    "related_articles": [
+      "rti-reply"
+    ],
+    "related_procedures": [
+      "rti-reply-procedure"
+    ],
+    "file": "/downloads/documents/go-rti-reply.pdf"
+  },
+  {
+    "id": "go-rule-28-relinquishment",
+    "title": "Rule 28 Relinquishment — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "service-rules",
+    "year": 2026,
+    "subject": "Official GO reference pack for Rule 28 Relinquishment — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Rule 28 Relinquishment",
+    "related_articles": [
+      "rule-28-relinquishment"
+    ],
+    "related_procedures": [
+      "rule-28-relinquishment-procedure"
+    ],
+    "file": "/downloads/documents/go-rule-28-relinquishment.pdf"
+  },
+  {
+    "id": "go-seniority-list-objection",
+    "title": "Seniority List Objection — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Seniority List Objection — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Seniority List Objection",
+    "related_articles": [
+      "seniority-list-objection"
+    ],
+    "related_procedures": [
+      "seniority-list-objection-procedure"
+    ],
+    "file": "/downloads/documents/go-seniority-list-objection.pdf"
+  },
+  {
+    "id": "go-service-register",
+    "title": "Service Register Maintenance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Service Register Maintenance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Service Register Maintenance",
+    "related_articles": [
+      "service-register-office-guide"
+    ],
+    "related_procedures": [
+      "service-register-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-service-register.pdf"
+  },
+  {
+    "id": "go-service-register-maintenance",
+    "title": "Service Register Maintenance Guide — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Service Register Maintenance Guide — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Service Register Maintenance Guide",
+    "related_articles": [
+      "service-register-maintenance"
+    ],
+    "related_procedures": [
+      "service-register-maintenance-procedure"
+    ],
+    "file": "/downloads/documents/go-service-register-maintenance.pdf"
+  },
+  {
+    "id": "go-service-verification",
+    "title": "Service Verification Procedure — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Service Verification Procedure — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Service Verification Procedure",
+    "related_articles": [
+      "service-verification"
+    ],
+    "related_procedures": [
+      "service-verification-procedure"
+    ],
+    "file": "/downloads/documents/go-service-verification.pdf"
+  },
+  {
+    "id": "go-special-casual-leave",
+    "title": "Special Casual Leave — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Special Casual Leave — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Special Casual Leave",
+    "related_articles": [
+      "special-casual-leave"
+    ],
+    "related_procedures": [
+      "special-casual-leave-procedure"
+    ],
+    "file": "/downloads/documents/go-special-casual-leave.pdf"
+  },
+  {
+    "id": "go-store-purchase-procedure",
+    "title": "Store Purchase Procedure under AP Financial Code — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Store Purchase Procedure under AP Financial Code — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Store Purchase Procedure under AP Financial Code",
+    "related_articles": [
+      "store-purchase-procedure"
+    ],
+    "related_procedures": [
+      "store-purchase-procedure-procedure"
+    ],
+    "file": "/downloads/documents/go-store-purchase-procedure.pdf"
+  },
+  {
+    "id": "go-study-leave",
+    "title": "Study Leave Sanction — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "leave",
+    "year": 2026,
+    "subject": "Official GO reference pack for Study Leave Sanction — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Study Leave Sanction",
+    "related_articles": [
+      "study-leave"
+    ],
+    "related_procedures": [
+      "study-leave-procedure"
+    ],
+    "file": "/downloads/documents/go-study-leave.pdf"
+  },
+  {
+    "id": "go-supplementary-bill",
+    "title": "Supplementary Bill — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "treasury",
+    "year": 2026,
+    "subject": "Official GO reference pack for Supplementary Bill — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Supplementary Bill",
+    "related_articles": [
+      "supplementary-bill"
+    ],
+    "related_procedures": [
+      "supplementary-bill-procedure"
+    ],
+    "file": "/downloads/documents/go-supplementary-bill.pdf"
+  },
+  {
+    "id": "go-suspension-procedure-cca",
+    "title": "Suspension Procedure under CCA Rules — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "conduct",
+    "year": 2026,
+    "subject": "Official GO reference pack for Suspension Procedure under CCA Rules — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Suspension Procedure under CCA Rules",
+    "related_articles": [
+      "suspension-procedure-cca"
+    ],
+    "related_procedures": [
+      "suspension-procedure-cca-procedure"
+    ],
+    "file": "/downloads/documents/go-suspension-procedure-cca.pdf"
+  },
+  {
+    "id": "go-suspension-proceedings",
+    "title": "Suspension Proceedings — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "conduct",
+    "year": 2026,
+    "subject": "Official GO reference pack for Suspension Proceedings — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Suspension Proceedings",
+    "related_articles": [
+      "suspension-proceedings"
+    ],
+    "related_procedures": [
+      "suspension-proceedings-procedure"
+    ],
+    "file": "/downloads/documents/go-suspension-proceedings.pdf"
+  },
+  {
+    "id": "go-tds-24q",
+    "title": "TDS Form 24Q — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for TDS Form 24Q — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "TDS Form 24Q",
+    "related_articles": [
+      "tds-24q"
+    ],
+    "related_procedures": [
+      "tds-24q-procedure"
+    ],
+    "file": "/downloads/documents/go-tds-24q.pdf"
+  },
+  {
+    "id": "go-transfer-joining",
+    "title": "Transfer Joining — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Transfer Joining — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Transfer Joining",
+    "related_articles": [
+      "transfer-joining-office-guide"
+    ],
+    "related_procedures": [
+      "transfer-joining-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-transfer-joining.pdf"
+  },
+  {
+    "id": "go-transfer-procedure",
+    "title": "Transfer Procedure for Government Employees — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Transfer Procedure for Government Employees — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Transfer Procedure for Government Employees",
+    "related_articles": [
+      "transfer-procedure"
+    ],
+    "related_procedures": [
+      "transfer-procedure-procedure"
+    ],
+    "file": "/downloads/documents/go-transfer-procedure.pdf"
+  },
+  {
+    "id": "go-transfer-relieving",
+    "title": "Transfer Relieving — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Transfer Relieving — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Transfer Relieving",
+    "related_articles": [
+      "transfer-relieving-office-guide"
+    ],
+    "related_procedures": [
+      "transfer-relieving-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-transfer-relieving.pdf"
+  },
+  {
+    "id": "go-transport-allowance",
+    "title": "Transport Allowance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Transport Allowance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Transport Allowance",
+    "related_articles": [
+      "transport-allowance"
+    ],
+    "related_procedures": [
+      "transport-allowance-procedure"
+    ],
+    "file": "/downloads/documents/go-transport-allowance.pdf"
+  },
+  {
+    "id": "go-treasury-rejection",
+    "title": "Treasury Bill Rejection — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "treasury",
+    "year": 2026,
+    "subject": "Official GO reference pack for Treasury Bill Rejection — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Treasury Bill Rejection",
+    "related_articles": [
+      "treasury-rejection"
+    ],
+    "related_procedures": [
+      "treasury-rejection-procedure"
+    ],
+    "file": "/downloads/documents/go-treasury-rejection.pdf"
+  },
+  {
+    "id": "go-treasury-objections",
+    "title": "Treasury Objections and How to Avoid Them — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Treasury Objections and How to Avoid Them — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Treasury Objections and How to Avoid Them",
+    "related_articles": [
+      "treasury-objections"
+    ],
+    "related_procedures": [
+      "treasury-objections-procedure"
+    ],
+    "file": "/downloads/documents/go-treasury-objections.pdf"
+  },
+  {
+    "id": "go-tuition-fee-reimbursement",
+    "title": "Tuition Fee Reimbursement — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "finance",
+    "year": 2026,
+    "subject": "Official GO reference pack for Tuition Fee Reimbursement — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Tuition Fee Reimbursement",
+    "related_articles": [
+      "tuition-fee-reimbursement"
+    ],
+    "related_procedures": [
+      "tuition-fee-reimbursement-procedure"
+    ],
+    "file": "/downloads/documents/go-tuition-fee-reimbursement.pdf"
+  },
+  {
+    "id": "go-vigilance-clearance",
+    "title": "Vigilance Clearance — GO Reference Pack",
+    "type": "go",
+    "number": "Verify on GOIR",
+    "date": "2026-06-17",
+    "department": "Andhra Pradesh Government",
+    "category": "establishment",
+    "year": 2026,
+    "subject": "Official GO reference pack for Vigilance Clearance — download OfficeMitra summary PDF and verify current Government Orders on GOIR before official action.",
+    "goir_url": "https://goir.ap.gov.in/",
+    "goir_search": "Vigilance Clearance",
+    "related_articles": [
+      "vigilance-clearance-office-guide"
+    ],
+    "related_procedures": [
+      "vigilance-clearance-office-guide-procedure"
+    ],
+    "file": "/downloads/documents/go-vigilance-clearance.pdf"
+  }
+]

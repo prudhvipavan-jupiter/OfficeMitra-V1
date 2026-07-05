@@ -1,0 +1,661 @@
+/* OfficeMitra Jupiter Command Center — admin HUD theme */
+
+.jarvis-admin {
+  --jarvis-bg: #020617;
+  --jarvis-surface: rgba(8, 20, 40, 0.72);
+  --jarvis-border: rgba(34, 211, 238, 0.22);
+  --jarvis-border-bright: rgba(34, 211, 238, 0.55);
+  --jarvis-glow: rgba(34, 211, 238, 0.35);
+  --jarvis-gold: #fbbf24;
+  --jarvis-gold-dim: rgba(251, 191, 36, 0.35);
+  --jarvis-text: #e2f4ff;
+  --jarvis-muted: #7dd3fc;
+  --jarvis-dim: #64748b;
+  color: var(--jarvis-text);
+  background: var(--jarvis-bg);
+  min-height: 100vh;
+}
+
+.jarvis-admin .jarvis-grid-bg {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(34, 211, 238, 0.12), transparent 55%),
+    radial-gradient(ellipse 60% 40% at 100% 100%, rgba(251, 191, 36, 0.06), transparent 50%),
+    linear-gradient(rgba(34, 211, 238, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(34, 211, 238, 0.04) 1px, transparent 1px);
+  background-size: auto, auto, 48px 48px, 48px 48px;
+  animation: jarvis-grid-drift 60s linear infinite;
+}
+
+.jarvis-admin .jarvis-scanline {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(34, 211, 238, 0.015) 2px,
+    rgba(34, 211, 238, 0.015) 4px
+  );
+  opacity: 0.6;
+}
+
+.jarvis-admin .jarvis-content {
+  position: relative;
+  z-index: 2;
+}
+
+@keyframes jarvis-grid-drift {
+  from { background-position: 0 0, 0 0, 0 0, 0 0; }
+  to { background-position: 0 0, 0 0, 48px 48px, 48px 48px; }
+}
+
+@keyframes jarvis-pulse {
+  0%, 100% { opacity: 1; box-shadow: 0 0 8px var(--jarvis-glow); }
+  50% { opacity: 0.65; box-shadow: 0 0 16px var(--jarvis-glow); }
+}
+
+@keyframes jarvis-fade-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes jarvis-ring-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.jarvis-panel {
+  background: var(--jarvis-surface);
+  border: 1px solid var(--jarvis-border);
+  border-radius: 1rem;
+  backdrop-filter: blur(16px);
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.03) inset,
+    0 8px 32px rgba(0, 0, 0, 0.45),
+    0 0 24px rgba(34, 211, 238, 0.04);
+  animation: jarvis-fade-in 0.4s ease-out;
+}
+
+.jarvis-panel-glow {
+  border-color: var(--jarvis-border-bright);
+  box-shadow:
+    0 0 0 1px rgba(34, 211, 238, 0.08) inset,
+    0 0 40px rgba(34, 211, 238, 0.08);
+}
+
+.jarvis-panel-gold {
+  border-color: var(--jarvis-gold-dim);
+  box-shadow: 0 0 32px rgba(251, 191, 36, 0.06);
+}
+
+.jarvis-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #a5f3fc;
+}
+
+.jupiter-subtitle {
+  color: #cbd5e1 !important;
+}
+
+.jarvis-metric-value {
+  font-size: 2rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.1;
+  color: #e0f2fe;
+  background: linear-gradient(135deg, #fff 0%, #7dd3fc 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.jarvis-metric-value-gold {
+  color: #fde68a;
+  background: linear-gradient(135deg, #fef3c7 0%, #fbbf24 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.jarvis-status-dot {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 9999px;
+  animation: jarvis-pulse 2s ease-in-out infinite;
+}
+
+.jarvis-status-dot.ok { background: #34d399; box-shadow: 0 0 8px rgba(52, 211, 153, 0.6); }
+.jarvis-status-dot.warn { background: #fbbf24; box-shadow: 0 0 8px rgba(251, 191, 36, 0.6); }
+.jarvis-status-dot.error { background: #f87171; box-shadow: 0 0 8px rgba(248, 113, 113, 0.6); }
+.jarvis-status-dot.off { background: #64748b; animation: none; }
+
+/* Status pills — readable on dark panels */
+.jarvis-admin .jarvis-status-pill-text {
+  color: #e0f2fe;
+}
+
+.jarvis-nav-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.5rem 0.875rem;
+  border-radius: 0.5rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--jarvis-muted);
+  border: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.jarvis-nav-link:hover {
+  color: var(--jarvis-text);
+  background: rgba(34, 211, 238, 0.08);
+  border-color: rgba(34, 211, 238, 0.15);
+}
+
+.jarvis-nav-link.active {
+  color: var(--jarvis-text);
+  background: rgba(34, 211, 238, 0.12);
+  border-color: var(--jarvis-border-bright);
+  box-shadow: 0 0 16px rgba(34, 211, 238, 0.12);
+}
+
+.jarvis-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  border: 1px solid var(--jarvis-border);
+  background: rgba(34, 211, 238, 0.1);
+  color: var(--jarvis-text);
+  transition: all 0.2s ease;
+}
+
+.jarvis-btn:hover {
+  background: rgba(34, 211, 238, 0.2);
+  border-color: var(--jarvis-border-bright);
+  box-shadow: 0 0 20px rgba(34, 211, 238, 0.15);
+}
+
+.jarvis-btn-gold {
+  background: rgba(251, 191, 36, 0.12);
+  border-color: var(--jarvis-gold-dim);
+  color: #fef3c7;
+}
+
+.jarvis-btn-gold:hover {
+  background: rgba(251, 191, 36, 0.22);
+  box-shadow: 0 0 20px rgba(251, 191, 36, 0.15);
+}
+
+.jarvis-module-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 1rem;
+  border: 1px solid var(--jarvis-border);
+  background: var(--jarvis-surface);
+  backdrop-filter: blur(12px);
+  padding: 1.25rem;
+  transition: all 0.25s ease;
+}
+
+.jarvis-module-card::before {
+  content: "";
+  position: absolute;
+  inset-x: 0;
+  top: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--accent, #22d3ee), transparent);
+  opacity: 0.8;
+}
+
+.jarvis-module-card:hover {
+  border-color: var(--jarvis-border-bright);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4), 0 0 32px rgba(34, 211, 238, 0.1);
+}
+
+.jarvis-module-card .jarvis-module-badge {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  font-size: 0.625rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.125rem 0.5rem;
+  border-radius: 9999px;
+  background: rgba(251, 191, 36, 0.15);
+  color: #fde68a;
+  border: 1px solid var(--jarvis-gold-dim);
+}
+
+.jarvis-input,
+.jarvis-admin .input-field {
+  width: 100%;
+  border-radius: 0.5rem;
+  border: 1px solid var(--jarvis-border);
+  background: rgba(2, 10, 24, 0.8);
+  color: var(--jarvis-text);
+  padding: 0.625rem 0.875rem;
+  font-size: 0.875rem;
+}
+
+.jarvis-input:focus,
+.jarvis-admin .input-field:focus {
+  outline: none;
+  border-color: var(--jarvis-border-bright);
+  box-shadow: 0 0 0 3px rgba(34, 211, 238, 0.12);
+}
+
+.jarvis-admin .input-field::placeholder {
+  color: var(--jarvis-dim);
+}
+
+.jarvis-activity-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid rgba(34, 211, 238, 0.08);
+  font-size: 0.8125rem;
+}
+
+.jarvis-activity-row:last-child {
+  border-bottom: none;
+}
+
+.jarvis-ring {
+  position: relative;
+  width: 120px;
+  height: 120px;
+}
+
+.jarvis-ring svg {
+  animation: jarvis-ring-spin 20s linear infinite;
+}
+
+.jarvis-alert {
+  border-left: 3px solid #fbbf24;
+  background: rgba(251, 191, 36, 0.08);
+  padding: 0.75rem 1rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+  font-size: 0.8125rem;
+  color: #fef3c7;
+}
+
+.jarvis-alert.critical {
+  border-left-color: #f87171;
+  background: rgba(248, 113, 113, 0.08);
+  color: #fecaca;
+}
+
+/* Sub-page overrides inside jarvis-admin */
+.jarvis-admin .text-navy-900,
+.jarvis-admin .text-navy-800,
+.jarvis-admin h2.text-navy-900,
+.jarvis-admin h2.text-lg.font-semibold {
+  color: var(--jarvis-text) !important;
+}
+
+.jarvis-admin .text-gray-600,
+.jarvis-admin .text-gray-500,
+.jarvis-admin .text-gray-700 {
+  color: #94a3b8 !important;
+}
+
+.jarvis-admin .border-navy-100,
+.jarvis-admin .border-navy-200,
+.jarvis-admin .border-navy-700 {
+  border-color: var(--jarvis-border) !important;
+}
+
+.jarvis-admin .bg-white,
+.jarvis-admin .bg-navy-50,
+.jarvis-admin .bg-navy-50\/50 {
+  background: var(--jarvis-surface) !important;
+}
+
+.jarvis-admin .dark\:bg-navy-800\/80,
+.jarvis-admin .dark\:bg-navy-900\/50 {
+  background: rgba(8, 20, 40, 0.85) !important;
+}
+
+.jarvis-admin .rounded-xl.border {
+  backdrop-filter: blur(12px);
+}
+
+.jarvis-admin .prose-navy {
+  --tw-prose-body: #cbd5e1;
+  --tw-prose-headings: #e2f4ff;
+  --tw-prose-links: #22d3ee;
+}
+
+/* ── Readable form text in Jupiter mode ── */
+.jarvis-admin textarea,
+.jarvis-admin input:not([type="checkbox"]):not([type="radio"]),
+.jarvis-admin select,
+.jarvis-admin .input-field {
+  color: #f0f9ff !important;
+  background-color: rgba(3, 15, 35, 0.98) !important;
+  border-color: rgba(34, 211, 238, 0.35) !important;
+  -webkit-text-fill-color: #f0f9ff !important;
+  caret-color: #22d3ee;
+}
+
+.jarvis-admin textarea::placeholder,
+.jarvis-admin input::placeholder,
+.jarvis-admin .input-field::placeholder {
+  color: #94a3b8 !important;
+  opacity: 1;
+}
+
+.jarvis-admin select option {
+  background-color: #0f172a;
+  color: #f0f9ff;
+}
+
+.jarvis-admin label,
+.jarvis-admin .jarvis-label {
+  color: #bae6fd !important;
+}
+
+.jarvis-admin p,
+.jarvis-admin li,
+.jarvis-admin dd,
+.jarvis-admin dt {
+  color: inherit;
+}
+
+.jarvis-admin .text-slate-300 {
+  color: #cbd5e1 !important;
+}
+
+.jarvis-admin .text-slate-400,
+.jarvis-admin .text-slate-500 {
+  color: #94a3b8 !important;
+}
+
+.jarvis-admin .text-gray-600,
+.jarvis-admin .text-gray-500,
+.jarvis-admin .text-gray-700 {
+  color: #94a3b8 !important;
+}
+
+.jarvis-admin .prose,
+.jarvis-admin .prose p,
+.jarvis-admin .prose li,
+.jarvis-admin .prose strong,
+.jarvis-admin .prose-navy {
+  color: #e2e8f0 !important;
+}
+
+.jarvis-admin .prose h1,
+.jarvis-admin .prose h2,
+.jarvis-admin .prose h3,
+.jarvis-admin .prose-navy h1,
+.jarvis-admin .prose-navy h2,
+.jarvis-admin .prose-navy h3 {
+  color: #f1f5f9 !important;
+}
+
+.jarvis-activity-row {
+  color: #cbd5e1;
+}
+
+.jarvis-activity-row .font-medium {
+  color: #e0f2fe;
+}
+
+/* ── Normal (light) admin mode ── */
+.admin-normal {
+  min-height: 100vh;
+  background: #f9fafb;
+  color: #111827;
+}
+
+.admin-normal .jarvis-content {
+  position: relative;
+  z-index: 1;
+}
+
+.admin-normal h1,
+.admin-normal h2,
+.admin-normal h3,
+.admin-normal .text-white {
+  color: #0a1628 !important;
+}
+
+.admin-normal .text-slate-300,
+.admin-normal .text-slate-400,
+.admin-normal .text-slate-500 {
+  color: #6b7280 !important;
+}
+
+.admin-normal .jarvis-label {
+  color: #6b7280 !important;
+}
+
+.admin-normal .jarvis-panel,
+.admin-normal .jarvis-module-card {
+  background: #ffffff !important;
+  border-color: #e8ecf4 !important;
+  box-shadow: 0 1px 3px rgba(10, 22, 40, 0.08) !important;
+  backdrop-filter: none;
+}
+
+.admin-normal .jarvis-panel-glow {
+  border-color: #d1d9e8 !important;
+  box-shadow: 0 4px 14px rgba(10, 22, 40, 0.06) !important;
+}
+
+.admin-normal .jarvis-panel-gold {
+  border-color: #f3e4b8 !important;
+  background: #fdfaf0 !important;
+}
+
+.admin-normal .jarvis-metric-value,
+.admin-normal .jarvis-metric-value-gold {
+  color: #0a1628 !important;
+  background: none !important;
+  -webkit-text-fill-color: #0a1628 !important;
+}
+
+.admin-normal .jarvis-metric-value-gold {
+  color: #96700a !important;
+  -webkit-text-fill-color: #96700a !important;
+}
+
+.admin-normal .jarvis-btn {
+  background: #ffffff;
+  color: #2c3e6b;
+  border-color: #d1d9e8;
+}
+
+.admin-normal .jarvis-btn:hover {
+  background: #f4f6fa;
+  border-color: #a8b8d4;
+  box-shadow: none;
+}
+
+.admin-normal .jarvis-btn-gold {
+  background: #b8860b;
+  color: #ffffff;
+  border-color: #96700a;
+}
+
+.admin-normal .jarvis-btn-gold:hover {
+  background: #96700a;
+}
+
+.admin-normal .jarvis-nav-link {
+  color: #6b7280;
+}
+
+.admin-normal .jarvis-alert {
+  color: #92400e;
+  background: #fffbeb;
+  border-left-color: #f59e0b;
+}
+
+.admin-normal .jarvis-alert.critical {
+  color: #991b1b;
+  background: #fef2f2;
+  border-left-color: #ef4444;
+}
+
+.admin-normal .input-field,
+.admin-normal textarea,
+.admin-normal input,
+.admin-normal select {
+  color: #111827 !important;
+  background-color: #ffffff !important;
+  border-color: #d1d9e8 !important;
+  -webkit-text-fill-color: #111827 !important;
+}
+
+.admin-normal .input-field::placeholder,
+.admin-normal textarea::placeholder,
+.admin-normal input::placeholder {
+  color: #9ca3af !important;
+}
+
+.admin-normal .prose,
+.admin-normal .prose-navy {
+  color: #374151 !important;
+}
+
+.admin-normal .text-cyan-200,
+.admin-normal .text-cyan-300,
+.admin-normal .text-cyan-400 {
+  color: #2c3e6b !important;
+}
+
+.admin-normal .text-amber-200,
+.admin-normal .text-amber-400 {
+  color: #96700a !important;
+}
+
+/* ── Dual-mode semantic text (works in Normal + Jupiter) ── */
+.admin-text-heading {
+  color: #0a1628;
+}
+
+.admin-normal .admin-text-heading {
+  color: #0a1628 !important;
+}
+
+.jarvis-admin .admin-text-heading,
+.admin-jupiter .admin-text-heading {
+  color: #ffffff !important;
+}
+
+.admin-text-body {
+  color: #374151;
+}
+
+.admin-normal .admin-text-body {
+  color: #374151 !important;
+}
+
+.jarvis-admin .admin-text-body,
+.admin-jupiter .admin-text-body {
+  color: #cbd5e1 !important;
+}
+
+.admin-text-muted {
+  color: #6b7280;
+}
+
+.admin-normal .admin-text-muted {
+  color: #6b7280 !important;
+}
+
+.jarvis-admin .admin-text-muted,
+.admin-jupiter .admin-text-muted {
+  color: #94a3b8 !important;
+}
+
+.admin-text-accent {
+  color: #b8860b;
+}
+
+.admin-normal .admin-text-accent {
+  color: #b8860b !important;
+}
+
+.jarvis-admin .admin-text-accent,
+.admin-jupiter .admin-text-accent {
+  color: #22d3ee !important;
+}
+
+.admin-text-label {
+  color: #6b7280;
+}
+
+.admin-normal .admin-text-label {
+  color: #6b7280 !important;
+}
+
+.jarvis-admin .admin-text-label,
+.admin-jupiter .admin-text-label {
+  color: #a5f3fc !important;
+}
+
+.admin-normal .jarvis-status-pill {
+  background: #f4f6fa !important;
+  border-color: #d1d9e8 !important;
+  color: #374151 !important;
+}
+
+.admin-normal .jupiter-subtitle {
+  color: #4b5563 !important;
+}
+
+.admin-normal .atlas-tile {
+  background: #f4f6fa !important;
+  border-color: #e8ecf4 !important;
+}
+
+.admin-normal .atlas-tile:hover {
+  background: #e8ecf4 !important;
+  border-color: #a8b8d4 !important;
+}
+
+.admin-normal .jarvis-module-card .jarvis-module-badge {
+  color: #92400e !important;
+  background: #fef3c7 !important;
+  border-color: #fcd34d !important;
+}
+
+.admin-normal .jarvis-activity-row {
+  color: #374151 !important;
+}
+
+.admin-normal .jarvis-activity-row .font-medium {
+  color: #0a1628 !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .jarvis-grid-bg,
+  .jarvis-status-dot,
+  .jarvis-ring svg,
+  .jarvis-panel {
+    animation: none;
+  }
+}
+

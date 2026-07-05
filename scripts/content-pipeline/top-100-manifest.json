@@ -1,0 +1,706 @@
+{
+  "generated_at": "2026-06-16T19:08:42.441Z",
+  "count": 100,
+  "articles": [
+    {
+      "slug": "probation-declaration",
+      "title": "Probation Declaration Procedure",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/probation-declaration.svg"
+    },
+    {
+      "slug": "relinquishment-promotion-rule-28",
+      "title": "Relinquishment of Promotion under Rule 28",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/relinquishment-promotion-rule-28.svg"
+    },
+    {
+      "slug": "promotion-process-step-by-step",
+      "title": "Promotion Process – Step by Step",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/promotion-process-step-by-step.svg"
+    },
+    {
+      "slug": "seniority-list-preparation",
+      "title": "Preparation of Seniority Lists",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/seniority-list-preparation.svg"
+    },
+    {
+      "slug": "transfer-procedure",
+      "title": "Transfer Procedure for Government Employees",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/transfer-procedure.svg"
+    },
+    {
+      "slug": "joining-time-rules",
+      "title": "Joining Time Rules Explained",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/joining-time-rules.svg"
+    },
+    {
+      "slug": "service-verification",
+      "title": "Service Verification Procedure",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/service-verification.svg"
+    },
+    {
+      "slug": "approved-probation-declaration",
+      "title": "Declaration of Approved Probation",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/approved-probation-declaration.svg"
+    },
+    {
+      "slug": "compassionate-appointment",
+      "title": "Compassionate Appointment Guidelines",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/compassionate-appointment.svg"
+    },
+    {
+      "slug": "increment-sanction",
+      "title": "Increment Sanction Procedure",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/increment-sanction.svg"
+    },
+    {
+      "slug": "pay-fixation-fr-22b",
+      "title": "Pay Fixation under FR 22-B",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/pay-fixation-fr-22b.svg"
+    },
+    {
+      "slug": "promotion-panel-preparation",
+      "title": "Preparation of Promotion Panels",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/promotion-panel-preparation.svg"
+    },
+    {
+      "slug": "reservation-rules-promotions",
+      "title": "Reservation Rules in Promotions",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/reservation-rules-promotions.svg"
+    },
+    {
+      "slug": "service-register-maintenance",
+      "title": "Service Register Maintenance Guide",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/service-register-maintenance.svg"
+    },
+    {
+      "slug": "retirement-processing",
+      "title": "Retirement Processing Checklist",
+      "category": "establishment",
+      "tier": "flagship",
+      "image": "/images/articles/retirement-processing.svg"
+    },
+    {
+      "slug": "earned-leave-rules",
+      "title": "Earned Leave Rules Explained",
+      "category": "leave",
+      "tier": "flagship",
+      "image": "/images/articles/earned-leave-rules.svg"
+    },
+    {
+      "slug": "half-pay-leave-procedure",
+      "title": "Half Pay Leave Procedure",
+      "category": "leave",
+      "tier": "flagship",
+      "image": "/images/articles/half-pay-leave-procedure.svg"
+    },
+    {
+      "slug": "commuted-leave-rules",
+      "title": "Commuted Leave Procedure",
+      "category": "leave",
+      "tier": "flagship",
+      "image": "/images/articles/commuted-leave-rules.svg"
+    },
+    {
+      "slug": "maternity-leave-rules",
+      "title": "Maternity Leave Rules (Latest Amendments)",
+      "category": "leave",
+      "tier": "flagship",
+      "image": "/images/articles/maternity-leave-rules.svg"
+    },
+    {
+      "slug": "child-care-leave",
+      "title": "Child Care Leave Guidelines",
+      "category": "leave",
+      "tier": "flagship",
+      "image": "/images/articles/child-care-leave.svg"
+    },
+    {
+      "slug": "extraordinary-leave",
+      "title": "Extraordinary Leave Procedure",
+      "category": "leave",
+      "tier": "flagship",
+      "image": "/images/articles/extraordinary-leave.svg"
+    },
+    {
+      "slug": "leave-encashment-rules",
+      "title": "Leave Encashment Rules",
+      "category": "leave",
+      "tier": "flagship",
+      "image": "/images/articles/leave-encashment-rules.svg"
+    },
+    {
+      "slug": "leave-account-maintenance",
+      "title": "Leave Account Maintenance",
+      "category": "leave",
+      "tier": "flagship",
+      "image": "/images/articles/leave-account-maintenance.svg"
+    },
+    {
+      "slug": "apgli-policy-registration",
+      "title": "APGLI Policy Registration Process",
+      "category": "apgli",
+      "tier": "flagship",
+      "image": "/images/articles/apgli-policy-registration.svg"
+    },
+    {
+      "slug": "apgli-premium-revision",
+      "title": "APGLI Premium Revision Procedure",
+      "category": "apgli",
+      "tier": "flagship",
+      "image": "/images/articles/apgli-premium-revision.svg"
+    },
+    {
+      "slug": "apgli-loan-application",
+      "title": "APGLI Loan Application Guide",
+      "category": "apgli",
+      "tier": "flagship",
+      "image": "/images/articles/apgli-loan-application.svg"
+    },
+    {
+      "slug": "apgli-maturity-claim",
+      "title": "APGLI Maturity Claim Process",
+      "category": "apgli",
+      "tier": "flagship",
+      "image": "/images/articles/apgli-maturity-claim.svg"
+    },
+    {
+      "slug": "apgli-common-mistakes",
+      "title": "Common APGLI Mistakes and Solutions",
+      "category": "apgli",
+      "tier": "flagship",
+      "image": "/images/articles/apgli-common-mistakes.svg"
+    },
+    {
+      "slug": "gpf-advance",
+      "title": "GPF Advance Procedure",
+      "category": "gpf",
+      "tier": "flagship",
+      "image": "/images/articles/gpf-advance.svg"
+    },
+    {
+      "slug": "gpf-withdrawal-rules",
+      "title": "GPF Withdrawal Rules",
+      "category": "gpf",
+      "tier": "flagship",
+      "image": "/images/articles/gpf-withdrawal-rules.svg"
+    },
+    {
+      "slug": "gpf-final-settlement",
+      "title": "Final GPF Settlement Process",
+      "category": "gpf",
+      "tier": "flagship",
+      "image": "/images/articles/gpf-final-settlement.svg"
+    },
+    {
+      "slug": "gpf-missing-credits",
+      "title": "Missing GPF Credits – What to Do",
+      "category": "gpf",
+      "tier": "flagship",
+      "image": "/images/articles/gpf-missing-credits.svg"
+    },
+    {
+      "slug": "gpf-nomination-corrections",
+      "title": "GPF Nomination and Corrections",
+      "category": "gpf",
+      "tier": "flagship",
+      "image": "/images/articles/gpf-nomination-corrections.svg"
+    },
+    {
+      "slug": "bcr-maintenance",
+      "title": "Budget Control Register (BCR) Maintenance",
+      "category": "finance",
+      "tier": "flagship",
+      "image": "/images/articles/bcr-maintenance.svg"
+    },
+    {
+      "slug": "contingent-bill-preparation",
+      "title": "Contingent Bill Preparation",
+      "category": "finance",
+      "tier": "flagship",
+      "image": "/images/articles/contingent-bill-preparation.svg"
+    },
+    {
+      "slug": "cfms-bill-processing",
+      "title": "CFMS Bill Processing Guide",
+      "category": "finance",
+      "tier": "flagship",
+      "image": "/images/articles/cfms-bill-processing.svg"
+    },
+    {
+      "slug": "treasury-objections",
+      "title": "Treasury Objections and How to Avoid Them",
+      "category": "finance",
+      "tier": "flagship",
+      "image": "/images/articles/treasury-objections.svg"
+    },
+    {
+      "slug": "e-procurement-rules",
+      "title": "E-Procurement Rules Above ₹1 Lakh",
+      "category": "finance",
+      "tier": "flagship",
+      "image": "/images/articles/e-procurement-rules.svg"
+    },
+    {
+      "slug": "store-purchase-procedure",
+      "title": "Store Purchase Procedure under AP Financial Code",
+      "category": "finance",
+      "tier": "flagship",
+      "image": "/images/articles/store-purchase-procedure.svg"
+    },
+    {
+      "slug": "delegation-financial-powers",
+      "title": "Delegation of Financial Powers Explained",
+      "category": "finance",
+      "tier": "flagship",
+      "image": "/images/articles/delegation-financial-powers.svg"
+    },
+    {
+      "slug": "ap-civil-services-conduct-rules",
+      "title": "AP Civil Services Conduct Rules Explained",
+      "category": "conduct",
+      "tier": "flagship",
+      "image": "/images/articles/ap-civil-services-conduct-rules.svg"
+    },
+    {
+      "slug": "charge-memo-preparation",
+      "title": "Charge Memo Preparation Guide",
+      "category": "conduct",
+      "tier": "flagship",
+      "image": "/images/articles/charge-memo-preparation.svg"
+    },
+    {
+      "slug": "suspension-procedure-cca",
+      "title": "Suspension Procedure under CCA Rules",
+      "category": "conduct",
+      "tier": "flagship",
+      "image": "/images/articles/suspension-procedure-cca.svg"
+    },
+    {
+      "slug": "minor-major-penalty",
+      "title": "Minor Penalty vs Major Penalty Proceedings",
+      "category": "conduct",
+      "tier": "flagship",
+      "image": "/images/articles/minor-major-penalty.svg"
+    },
+    {
+      "slug": "departmental-enquiry",
+      "title": "Departmental Enquiry Process",
+      "category": "conduct",
+      "tier": "flagship",
+      "image": "/images/articles/departmental-enquiry.svg"
+    },
+    {
+      "slug": "outsourcing-staff-management",
+      "title": "Outsourcing Staff Management Guidelines",
+      "category": "health",
+      "tier": "flagship",
+      "image": "/images/articles/outsourcing-staff-management.svg"
+    },
+    {
+      "slug": "hospital-condemnation",
+      "title": "Hospital Condemnation Procedure",
+      "category": "health",
+      "tier": "flagship",
+      "image": "/images/articles/hospital-condemnation.svg"
+    },
+    {
+      "slug": "biomedical-waste-compliance",
+      "title": "Biomedical Waste Compliance Checklist",
+      "category": "health",
+      "tier": "flagship",
+      "image": "/images/articles/biomedical-waste-compliance.svg"
+    },
+    {
+      "slug": "apmsidc-procurement",
+      "title": "APMSIDC Procurement Workflow",
+      "category": "health",
+      "tier": "flagship",
+      "image": "/images/articles/apmsidc-procurement.svg"
+    },
+    {
+      "slug": "dha-responsibilities",
+      "title": "District Hospital Administrative Officer Responsibilities",
+      "category": "health",
+      "tier": "flagship",
+      "image": "/images/articles/dha-responsibilities.svg"
+    },
+    {
+      "slug": "probation-declaration-office-guide",
+      "title": "Probation Declaration — Office Guide",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/probation-declaration-office-guide.svg"
+    },
+    {
+      "slug": "probation-declaration-ddo-checklist",
+      "title": "Probation Declaration — DDO Checklist",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/probation-declaration-ddo-checklist.svg"
+    },
+    {
+      "slug": "probation-declaration-step-by-step",
+      "title": "Probation Declaration — Step-by-Step",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/probation-declaration-step-by-step.svg"
+    },
+    {
+      "slug": "probation-declaration-common-mistakes",
+      "title": "Probation Declaration — Common Mistakes",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/probation-declaration-common-mistakes.svg"
+    },
+    {
+      "slug": "probation-declaration-audit-ready",
+      "title": "Probation Declaration — Audit-Ready Tips",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/probation-declaration-audit-ready.svg"
+    },
+    {
+      "slug": "probation-declaration-cfms-workflow",
+      "title": "Probation Declaration — CFMS Workflow",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/probation-declaration-cfms-workflow.svg"
+    },
+    {
+      "slug": "transfer-relieving-office-guide",
+      "title": "Transfer Relieving — Office Guide",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/transfer-relieving-office-guide.svg"
+    },
+    {
+      "slug": "transfer-relieving-ddo-checklist",
+      "title": "Transfer Relieving — DDO Checklist",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/transfer-relieving-ddo-checklist.svg"
+    },
+    {
+      "slug": "transfer-relieving-step-by-step",
+      "title": "Transfer Relieving — Step-by-Step",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/transfer-relieving-step-by-step.svg"
+    },
+    {
+      "slug": "transfer-relieving-common-mistakes",
+      "title": "Transfer Relieving — Common Mistakes",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/transfer-relieving-common-mistakes.svg"
+    },
+    {
+      "slug": "transfer-relieving-audit-ready",
+      "title": "Transfer Relieving — Audit-Ready Tips",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/transfer-relieving-audit-ready.svg"
+    },
+    {
+      "slug": "transfer-relieving-cfms-workflow",
+      "title": "Transfer Relieving — CFMS Workflow",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/transfer-relieving-cfms-workflow.svg"
+    },
+    {
+      "slug": "transfer-joining-office-guide",
+      "title": "Transfer Joining — Office Guide",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/transfer-joining-office-guide.svg"
+    },
+    {
+      "slug": "transfer-joining-ddo-checklist",
+      "title": "Transfer Joining — DDO Checklist",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/transfer-joining-ddo-checklist.svg"
+    },
+    {
+      "slug": "transfer-joining-step-by-step",
+      "title": "Transfer Joining — Step-by-Step",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/transfer-joining-step-by-step.svg"
+    },
+    {
+      "slug": "transfer-joining-common-mistakes",
+      "title": "Transfer Joining — Common Mistakes",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/transfer-joining-common-mistakes.svg"
+    },
+    {
+      "slug": "transfer-joining-audit-ready",
+      "title": "Transfer Joining — Audit-Ready Tips",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/transfer-joining-audit-ready.svg"
+    },
+    {
+      "slug": "transfer-joining-cfms-workflow",
+      "title": "Transfer Joining — CFMS Workflow",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/transfer-joining-cfms-workflow.svg"
+    },
+    {
+      "slug": "service-register-office-guide",
+      "title": "Service Register Maintenance — Office Guide",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/service-register-office-guide.svg"
+    },
+    {
+      "slug": "service-register-ddo-checklist",
+      "title": "Service Register Maintenance — DDO Checklist",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/service-register-ddo-checklist.svg"
+    },
+    {
+      "slug": "service-register-step-by-step",
+      "title": "Service Register Maintenance — Step-by-Step",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/service-register-step-by-step.svg"
+    },
+    {
+      "slug": "service-register-common-mistakes",
+      "title": "Service Register Maintenance — Common Mistakes",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/service-register-common-mistakes.svg"
+    },
+    {
+      "slug": "service-register-audit-ready",
+      "title": "Service Register Maintenance — Audit-Ready Tips",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/service-register-audit-ready.svg"
+    },
+    {
+      "slug": "service-register-cfms-workflow",
+      "title": "Service Register Maintenance — CFMS Workflow",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/service-register-cfms-workflow.svg"
+    },
+    {
+      "slug": "bcr-attendance-office-guide",
+      "title": "BCR Attendance — Office Guide",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/bcr-attendance-office-guide.svg"
+    },
+    {
+      "slug": "bcr-attendance-ddo-checklist",
+      "title": "BCR Attendance — DDO Checklist",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/bcr-attendance-ddo-checklist.svg"
+    },
+    {
+      "slug": "bcr-attendance-step-by-step",
+      "title": "BCR Attendance — Step-by-Step",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/bcr-attendance-step-by-step.svg"
+    },
+    {
+      "slug": "bcr-attendance-common-mistakes",
+      "title": "BCR Attendance — Common Mistakes",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/bcr-attendance-common-mistakes.svg"
+    },
+    {
+      "slug": "bcr-attendance-audit-ready",
+      "title": "BCR Attendance — Audit-Ready Tips",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/bcr-attendance-audit-ready.svg"
+    },
+    {
+      "slug": "bcr-attendance-cfms-workflow",
+      "title": "BCR Attendance — CFMS Workflow",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/bcr-attendance-cfms-workflow.svg"
+    },
+    {
+      "slug": "lpc-preparation-office-guide",
+      "title": "LPC Preparation — Office Guide",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/lpc-preparation-office-guide.svg"
+    },
+    {
+      "slug": "lpc-preparation-ddo-checklist",
+      "title": "LPC Preparation — DDO Checklist",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/lpc-preparation-ddo-checklist.svg"
+    },
+    {
+      "slug": "lpc-preparation-step-by-step",
+      "title": "LPC Preparation — Step-by-Step",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/lpc-preparation-step-by-step.svg"
+    },
+    {
+      "slug": "lpc-preparation-common-mistakes",
+      "title": "LPC Preparation — Common Mistakes",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/lpc-preparation-common-mistakes.svg"
+    },
+    {
+      "slug": "lpc-preparation-audit-ready",
+      "title": "LPC Preparation — Audit-Ready Tips",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/lpc-preparation-audit-ready.svg"
+    },
+    {
+      "slug": "lpc-preparation-cfms-workflow",
+      "title": "LPC Preparation — CFMS Workflow",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/lpc-preparation-cfms-workflow.svg"
+    },
+    {
+      "slug": "ndc-certificate-office-guide",
+      "title": "Non-Drawal Certificate — Office Guide",
+      "category": "finance",
+      "tier": "expert-angle",
+      "image": "/images/articles/ndc-certificate-office-guide.svg"
+    },
+    {
+      "slug": "ndc-certificate-ddo-checklist",
+      "title": "Non-Drawal Certificate — DDO Checklist",
+      "category": "finance",
+      "tier": "expert-angle",
+      "image": "/images/articles/ndc-certificate-ddo-checklist.svg"
+    },
+    {
+      "slug": "ndc-certificate-step-by-step",
+      "title": "Non-Drawal Certificate — Step-by-Step",
+      "category": "finance",
+      "tier": "expert-angle",
+      "image": "/images/articles/ndc-certificate-step-by-step.svg"
+    },
+    {
+      "slug": "ndc-certificate-common-mistakes",
+      "title": "Non-Drawal Certificate — Common Mistakes",
+      "category": "finance",
+      "tier": "expert-angle",
+      "image": "/images/articles/ndc-certificate-common-mistakes.svg"
+    },
+    {
+      "slug": "ndc-certificate-audit-ready",
+      "title": "Non-Drawal Certificate — Audit-Ready Tips",
+      "category": "finance",
+      "tier": "expert-angle",
+      "image": "/images/articles/ndc-certificate-audit-ready.svg"
+    },
+    {
+      "slug": "ndc-certificate-cfms-workflow",
+      "title": "Non-Drawal Certificate — CFMS Workflow",
+      "category": "finance",
+      "tier": "expert-angle",
+      "image": "/images/articles/ndc-certificate-cfms-workflow.svg"
+    },
+    {
+      "slug": "noc-passport-office-guide",
+      "title": "NOC for Passport — Office Guide",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/noc-passport-office-guide.svg"
+    },
+    {
+      "slug": "noc-passport-ddo-checklist",
+      "title": "NOC for Passport — DDO Checklist",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/noc-passport-ddo-checklist.svg"
+    },
+    {
+      "slug": "noc-passport-step-by-step",
+      "title": "NOC for Passport — Step-by-Step",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/noc-passport-step-by-step.svg"
+    },
+    {
+      "slug": "noc-passport-common-mistakes",
+      "title": "NOC for Passport — Common Mistakes",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/noc-passport-common-mistakes.svg"
+    },
+    {
+      "slug": "noc-passport-audit-ready",
+      "title": "NOC for Passport — Audit-Ready Tips",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/noc-passport-audit-ready.svg"
+    },
+    {
+      "slug": "noc-passport-cfms-workflow",
+      "title": "NOC for Passport — CFMS Workflow",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/noc-passport-cfms-workflow.svg"
+    },
+    {
+      "slug": "certificate-attestation-office-guide",
+      "title": "Certificate Attestation — Office Guide",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/certificate-attestation-office-guide.svg"
+    },
+    {
+      "slug": "certificate-attestation-ddo-checklist",
+      "title": "Certificate Attestation — DDO Checklist",
+      "category": "establishment",
+      "tier": "expert-angle",
+      "image": "/images/articles/certificate-attestation-ddo-checklist.svg"
+    }
+  ]
+}

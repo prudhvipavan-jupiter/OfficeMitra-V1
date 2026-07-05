@@ -1,0 +1,1010 @@
+[
+  {
+    "base": "aas-stagnation",
+    "title": "AAS Stagnation Increment",
+    "category": "finance",
+    "flagship_slug": "aas-stagnation-office-guide",
+    "procedure_slug": "aas-stagnation-office-guide-procedure",
+    "document_id": "go-aas-stagnation",
+    "source": "mega-bank"
+  },
+  {
+    "base": "acr-maintenance",
+    "title": "ACR Maintenance",
+    "category": "establishment",
+    "flagship_slug": "acr-maintenance",
+    "procedure_slug": "acr-maintenance-procedure",
+    "document_id": "go-acr-maintenance",
+    "source": "mega-bank"
+  },
+  {
+    "base": "annual-increment",
+    "title": "Annual Increment",
+    "category": "finance",
+    "flagship_slug": "annual-increment-office-guide",
+    "procedure_slug": "annual-increment-office-guide-procedure",
+    "document_id": "go-annual-increment",
+    "source": "mega-bank"
+  },
+  {
+    "base": "ap-civil-services-conduct-rules",
+    "title": "AP Civil Services Conduct Rules Explained",
+    "category": "conduct",
+    "flagship_slug": "ap-civil-services-conduct-rules",
+    "procedure_slug": "ap-civil-services-conduct-rules-procedure",
+    "document_id": "go-ap-civil-services-conduct-rules",
+    "source": "all-topics"
+  },
+  {
+    "base": "apgli",
+    "title": "Apgli",
+    "category": "establishment",
+    "flagship_slug": "apgli-common-mistakes",
+    "procedure_slug": "apgli-common-mistakes-procedure",
+    "document_id": "go-apgli",
+    "source": "article-scan"
+  },
+  {
+    "base": "apgli-closure",
+    "title": "APGLI Closure",
+    "category": "apgli",
+    "flagship_slug": "apgli-closure",
+    "procedure_slug": "apgli-closure-procedure",
+    "document_id": "go-apgli-closure",
+    "source": "mega-bank"
+  },
+  {
+    "base": "apgli-loan",
+    "title": "APGLI Loan",
+    "category": "apgli",
+    "flagship_slug": "apgli-loan",
+    "procedure_slug": "apgli-loan-procedure",
+    "document_id": "go-apgli-loan",
+    "source": "mega-bank"
+  },
+  {
+    "base": "apgli-loan-application",
+    "title": "APGLI Loan Application Guide",
+    "category": "apgli",
+    "flagship_slug": "apgli-loan-application",
+    "procedure_slug": "apgli-loan-application-procedure",
+    "document_id": "go-apgli-loan-application",
+    "source": "all-topics"
+  },
+  {
+    "base": "apgli-maturity-claim",
+    "title": "APGLI Maturity Claim Process",
+    "category": "apgli",
+    "flagship_slug": "apgli-maturity-claim",
+    "procedure_slug": "apgli-maturity-claim-procedure",
+    "document_id": "go-apgli-maturity-claim",
+    "source": "all-topics"
+  },
+  {
+    "base": "apgli-policy-registration",
+    "title": "APGLI Policy Registration Process",
+    "category": "apgli",
+    "flagship_slug": "apgli-policy-registration",
+    "procedure_slug": "apgli-policy-registration-procedure",
+    "document_id": "go-apgli-policy-registration",
+    "source": "all-topics"
+  },
+  {
+    "base": "apgli-premium",
+    "title": "APGLI Premium",
+    "category": "apgli",
+    "flagship_slug": "apgli-premium",
+    "procedure_slug": "apgli-premium-procedure",
+    "document_id": "go-apgli-premium",
+    "source": "mega-bank"
+  },
+  {
+    "base": "apgli-premium-revision",
+    "title": "APGLI Premium Revision Procedure",
+    "category": "apgli",
+    "flagship_slug": "apgli-premium-revision",
+    "procedure_slug": "apgli-premium-revision-procedure",
+    "document_id": "go-apgli-premium-revision",
+    "source": "all-topics"
+  },
+  {
+    "base": "apmsidc-procurement",
+    "title": "APMSIDC Procurement Workflow",
+    "category": "health",
+    "flagship_slug": "apmsidc-procurement",
+    "procedure_slug": "apmsidc-procurement-procedure",
+    "document_id": "go-apmsidc-procurement",
+    "source": "all-topics"
+  },
+  {
+    "base": "bcr-attendance",
+    "title": "BCR Attendance",
+    "category": "establishment",
+    "flagship_slug": "bcr-attendance-office-guide",
+    "procedure_slug": "bcr-attendance-office-guide-procedure",
+    "document_id": "go-bcr-attendance",
+    "source": "mega-bank"
+  },
+  {
+    "base": "biomedical-waste-compliance",
+    "title": "Biomedical Waste Compliance Checklist",
+    "category": "health",
+    "flagship_slug": "biomedical-waste-compliance",
+    "procedure_slug": "biomedical-waste-compliance-procedure",
+    "document_id": "go-biomedical-waste-compliance",
+    "source": "all-topics"
+  },
+  {
+    "base": "bcr-maintenance",
+    "title": "Budget Control Register (BCR) Maintenance",
+    "category": "finance",
+    "flagship_slug": "bcr-maintenance",
+    "procedure_slug": "bcr-maintenance-procedure",
+    "document_id": "go-bcr-maintenance",
+    "source": "all-topics"
+  },
+  {
+    "base": "certificate-attestation",
+    "title": "Certificate Attestation",
+    "category": "establishment",
+    "flagship_slug": "certificate-attestation-office-guide",
+    "procedure_slug": "certificate-attestation-office-guide-procedure",
+    "document_id": "go-certificate-attestation",
+    "source": "mega-bank"
+  },
+  {
+    "base": "cfms-bill-processing",
+    "title": "CFMS Bill Processing Guide",
+    "category": "finance",
+    "flagship_slug": "cfms-bill-processing",
+    "procedure_slug": "cfms-bill-processing-procedure",
+    "document_id": "go-cfms-bill-processing",
+    "source": "all-topics"
+  },
+  {
+    "base": "cfms-pay-bill",
+    "title": "CFMS Pay Bill",
+    "category": "treasury",
+    "flagship_slug": "cfms-pay-bill",
+    "procedure_slug": "cfms-pay-bill-procedure",
+    "document_id": "go-cfms-pay-bill",
+    "source": "mega-bank"
+  },
+  {
+    "base": "charge-memo",
+    "title": "Charge Memo",
+    "category": "conduct",
+    "flagship_slug": "charge-memo-office-guide",
+    "procedure_slug": "charge-memo-office-guide-procedure",
+    "document_id": "go-charge-memo",
+    "source": "mega-bank"
+  },
+  {
+    "base": "charge-memo-preparation",
+    "title": "Charge Memo Preparation Guide",
+    "category": "conduct",
+    "flagship_slug": "charge-memo-preparation",
+    "procedure_slug": "charge-memo-preparation-procedure",
+    "document_id": "go-charge-memo-preparation",
+    "source": "all-topics"
+  },
+  {
+    "base": "ccl-rules",
+    "title": "Child Care Leave",
+    "category": "leave",
+    "flagship_slug": "ccl-rules",
+    "procedure_slug": "ccl-rules-procedure",
+    "document_id": "go-ccl-rules",
+    "source": "mega-bank"
+  },
+  {
+    "base": "child-care-leave",
+    "title": "Child Care Leave Guidelines",
+    "category": "leave",
+    "flagship_slug": "child-care-leave",
+    "procedure_slug": "child-care-leave-procedure",
+    "document_id": "go-child-care-leave",
+    "source": "all-topics"
+  },
+  {
+    "base": "apgli-common-mistakes",
+    "title": "Common APGLI Mistakes and Solutions",
+    "category": "apgli",
+    "flagship_slug": "apgli-common-mistakes",
+    "procedure_slug": "apgli-common-mistakes-procedure",
+    "document_id": "go-apgli-common-mistakes",
+    "source": "all-topics"
+  },
+  {
+    "base": "commuted-leave-rules",
+    "title": "Commuted Leave Procedure",
+    "category": "leave",
+    "flagship_slug": "commuted-leave-rules",
+    "procedure_slug": "commuted-leave-rules-procedure",
+    "document_id": "go-commuted-leave-rules",
+    "source": "all-topics"
+  },
+  {
+    "base": "compassionate-appointment",
+    "title": "Compassionate Appointment Guidelines",
+    "category": "establishment",
+    "flagship_slug": "compassionate-appointment",
+    "procedure_slug": "compassionate-appointment-procedure",
+    "document_id": "go-compassionate-appointment",
+    "source": "all-topics"
+  },
+  {
+    "base": "contingent-bill-preparation",
+    "title": "Contingent Bill Preparation",
+    "category": "finance",
+    "flagship_slug": "contingent-bill-preparation",
+    "procedure_slug": "contingent-bill-preparation-procedure",
+    "document_id": "go-contingent-bill-preparation",
+    "source": "all-topics"
+  },
+  {
+    "base": "conveyance-allowance",
+    "title": "Conveyance Allowance",
+    "category": "finance",
+    "flagship_slug": "conveyance-allowance",
+    "procedure_slug": "conveyance-allowance-procedure",
+    "document_id": "go-conveyance-allowance",
+    "source": "mega-bank"
+  },
+  {
+    "base": "da-arrears",
+    "title": "DA Arrears",
+    "category": "finance",
+    "flagship_slug": "da-arrears",
+    "procedure_slug": "da-arrears-procedure",
+    "document_id": "go-da-arrears",
+    "source": "mega-bank"
+  },
+  {
+    "base": "ddo-it-declaration",
+    "title": "DDO IT Declaration",
+    "category": "finance",
+    "flagship_slug": "ddo-it-declaration",
+    "procedure_slug": "ddo-it-declaration-procedure",
+    "document_id": "go-ddo-it-declaration",
+    "source": "mega-bank"
+  },
+  {
+    "base": "approved-probation-declaration",
+    "title": "Declaration of Approved Probation",
+    "category": "establishment",
+    "flagship_slug": "approved-probation-declaration",
+    "procedure_slug": "approved-probation-declaration-procedure",
+    "document_id": "go-approved-probation-declaration",
+    "source": "all-topics"
+  },
+  {
+    "base": "delegation-financial-powers",
+    "title": "Delegation of Financial Powers Explained",
+    "category": "finance",
+    "flagship_slug": "delegation-financial-powers",
+    "procedure_slug": "delegation-financial-powers-procedure",
+    "document_id": "go-delegation-financial-powers",
+    "source": "all-topics"
+  },
+  {
+    "base": "departmental-enquiry",
+    "title": "Departmental Enquiry Process",
+    "category": "conduct",
+    "flagship_slug": "departmental-enquiry",
+    "procedure_slug": "departmental-enquiry-procedure",
+    "document_id": "go-departmental-enquiry",
+    "source": "all-topics"
+  },
+  {
+    "base": "dha-responsibilities",
+    "title": "District Hospital Administrative Officer Responsibilities",
+    "category": "health",
+    "flagship_slug": "dha-responsibilities",
+    "procedure_slug": "dha-responsibilities-procedure",
+    "document_id": "go-dha-responsibilities",
+    "source": "all-topics"
+  },
+  {
+    "base": "e-procurement-rules",
+    "title": "E-Procurement Rules Above ₹1 Lakh",
+    "category": "finance",
+    "flagship_slug": "e-procurement-rules",
+    "procedure_slug": "e-procurement-rules-procedure",
+    "document_id": "go-e-procurement-rules",
+    "source": "all-topics"
+  },
+  {
+    "base": "earned-leave",
+    "title": "Earned Leave Account",
+    "category": "leave",
+    "flagship_slug": "earned-leave",
+    "procedure_slug": "earned-leave-procedure",
+    "document_id": "go-earned-leave",
+    "source": "mega-bank"
+  },
+  {
+    "base": "earned-leave-rules",
+    "title": "Earned Leave Rules Explained",
+    "category": "leave",
+    "flagship_slug": "earned-leave-rules",
+    "procedure_slug": "earned-leave-rules-procedure",
+    "document_id": "go-earned-leave-rules",
+    "source": "all-topics"
+  },
+  {
+    "base": "ehs-referral",
+    "title": "EHS Referral",
+    "category": "health",
+    "flagship_slug": "ehs-referral",
+    "procedure_slug": "ehs-referral-procedure",
+    "document_id": "go-ehs-referral",
+    "source": "mega-bank"
+  },
+  {
+    "base": "el-encashment",
+    "title": "EL Encashment",
+    "category": "leave",
+    "flagship_slug": "el-encashment",
+    "procedure_slug": "el-encashment-procedure",
+    "document_id": "go-el-encashment",
+    "source": "mega-bank"
+  },
+  {
+    "base": "ex-gratia-claim",
+    "title": "Ex-Gratia Claim",
+    "category": "finance",
+    "flagship_slug": "ex-gratia-claim",
+    "procedure_slug": "ex-gratia-claim-procedure",
+    "document_id": "go-ex-gratia-claim",
+    "source": "supplemental"
+  },
+  {
+    "base": "extraordinary-leave",
+    "title": "Extraordinary Leave Procedure",
+    "category": "leave",
+    "flagship_slug": "extraordinary-leave",
+    "procedure_slug": "extraordinary-leave-procedure",
+    "document_id": "go-extraordinary-leave",
+    "source": "all-topics"
+  },
+  {
+    "base": "festival-advance",
+    "title": "Festival Advance",
+    "category": "finance",
+    "flagship_slug": "festival-advance",
+    "procedure_slug": "festival-advance-procedure",
+    "document_id": "go-festival-advance",
+    "source": "mega-bank"
+  },
+  {
+    "base": "file-noting",
+    "title": "File Noting & Correspondence",
+    "category": "establishment",
+    "flagship_slug": "file-noting",
+    "procedure_slug": "file-noting-procedure",
+    "document_id": "go-file-noting",
+    "source": "supplemental"
+  },
+  {
+    "base": "gpf-final-settlement",
+    "title": "Final GPF Settlement Process",
+    "category": "gpf",
+    "flagship_slug": "gpf-final-settlement",
+    "procedure_slug": "gpf-final-settlement-procedure",
+    "document_id": "go-gpf-final-settlement",
+    "source": "all-topics"
+  },
+  {
+    "base": "form-12bb",
+    "title": "Form 12BB Investment Proof",
+    "category": "finance",
+    "flagship_slug": "form-12bb",
+    "procedure_slug": "form-12bb-procedure",
+    "document_id": "go-form-12bb",
+    "source": "mega-bank"
+  },
+  {
+    "base": "funeral-advance",
+    "title": "Funeral Advance",
+    "category": "finance",
+    "flagship_slug": "funeral-advance",
+    "procedure_slug": "funeral-advance-procedure",
+    "document_id": "go-funeral-advance",
+    "source": "supplemental"
+  },
+  {
+    "base": "gis-final-payment",
+    "title": "GIS Final Payment",
+    "category": "finance",
+    "flagship_slug": "gis-final-payment",
+    "procedure_slug": "gis-final-payment-procedure",
+    "document_id": "go-gis-final-payment",
+    "source": "mega-bank"
+  },
+  {
+    "base": "gpf-advance",
+    "title": "GPF Advance",
+    "category": "gpf",
+    "flagship_slug": "gpf-advance",
+    "procedure_slug": "gpf-advance-procedure",
+    "document_id": "go-gpf-advance",
+    "source": "all-topics"
+  },
+  {
+    "base": "gpf-final-payment",
+    "title": "GPF Final Payment",
+    "category": "gpf",
+    "flagship_slug": "gpf-final-payment",
+    "procedure_slug": "gpf-final-payment-procedure",
+    "document_id": "go-gpf-final-payment",
+    "source": "mega-bank"
+  },
+  {
+    "base": "gpf-nomination-corrections",
+    "title": "GPF Nomination and Corrections",
+    "category": "gpf",
+    "flagship_slug": "gpf-nomination-corrections",
+    "procedure_slug": "gpf-nomination-corrections-procedure",
+    "document_id": "go-gpf-nomination-corrections",
+    "source": "all-topics"
+  },
+  {
+    "base": "gpf-subscription",
+    "title": "GPF Subscription",
+    "category": "gpf",
+    "flagship_slug": "gpf-subscription",
+    "procedure_slug": "gpf-subscription-procedure",
+    "document_id": "go-gpf-subscription",
+    "source": "mega-bank"
+  },
+  {
+    "base": "gpf-withdrawal-rules",
+    "title": "GPF Withdrawal Rules",
+    "category": "gpf",
+    "flagship_slug": "gpf-withdrawal-rules",
+    "procedure_slug": "gpf-withdrawal-rules-procedure",
+    "document_id": "go-gpf-withdrawal-rules",
+    "source": "all-topics"
+  },
+  {
+    "base": "hpl-sanction",
+    "title": "Half Pay Leave",
+    "category": "leave",
+    "flagship_slug": "hpl-sanction",
+    "procedure_slug": "hpl-sanction-procedure",
+    "document_id": "go-hpl-sanction",
+    "source": "mega-bank"
+  },
+  {
+    "base": "half-pay-leave-procedure",
+    "title": "Half Pay Leave Procedure",
+    "category": "leave",
+    "flagship_slug": "half-pay-leave-procedure",
+    "procedure_slug": "half-pay-leave-procedure-procedure",
+    "document_id": "go-half-pay-leave-procedure",
+    "source": "all-topics"
+  },
+  {
+    "base": "hospital-condemnation",
+    "title": "Hospital Condemnation Procedure",
+    "category": "health",
+    "flagship_slug": "hospital-condemnation",
+    "procedure_slug": "hospital-condemnation-procedure",
+    "document_id": "go-hospital-condemnation",
+    "source": "all-topics"
+  },
+  {
+    "base": "hra-claim",
+    "title": "HRA Claim",
+    "category": "finance",
+    "flagship_slug": "hra-claim",
+    "procedure_slug": "hra-claim-procedure",
+    "document_id": "go-hra-claim",
+    "source": "mega-bank"
+  },
+  {
+    "base": "increment-sanction",
+    "title": "Increment Sanction Procedure",
+    "category": "establishment",
+    "flagship_slug": "increment-sanction",
+    "procedure_slug": "increment-sanction-procedure",
+    "document_id": "go-increment-sanction",
+    "source": "all-topics"
+  },
+  {
+    "base": "joining-time-rules",
+    "title": "Joining Time Rules Explained",
+    "category": "establishment",
+    "flagship_slug": "joining-time-rules",
+    "procedure_slug": "joining-time-rules-procedure",
+    "document_id": "go-joining-time-rules",
+    "source": "all-topics"
+  },
+  {
+    "base": "leave-account-maintenance",
+    "title": "Leave Account Maintenance",
+    "category": "leave",
+    "flagship_slug": "leave-account-maintenance",
+    "procedure_slug": "leave-account-maintenance-procedure",
+    "document_id": "go-leave-account-maintenance",
+    "source": "all-topics"
+  },
+  {
+    "base": "leave-accrual",
+    "title": "Leave Accrual",
+    "category": "leave",
+    "flagship_slug": "leave-accrual",
+    "procedure_slug": "leave-accrual-procedure",
+    "document_id": "go-leave-accrual",
+    "source": "mega-bank"
+  },
+  {
+    "base": "leave-encashment-rules",
+    "title": "Leave Encashment Rules",
+    "category": "leave",
+    "flagship_slug": "leave-encashment-rules",
+    "procedure_slug": "leave-encashment-rules-procedure",
+    "document_id": "go-leave-encashment-rules",
+    "source": "all-topics"
+  },
+  {
+    "base": "leave-salary-bill",
+    "title": "Leave Salary Bill",
+    "category": "treasury",
+    "flagship_slug": "leave-salary-bill",
+    "procedure_slug": "leave-salary-bill-procedure",
+    "document_id": "go-leave-salary-bill",
+    "source": "mega-bank"
+  },
+  {
+    "base": "lok-adalat-settlement",
+    "title": "Lok Adalat Settlement",
+    "category": "conduct",
+    "flagship_slug": "lok-adalat-settlement",
+    "procedure_slug": "lok-adalat-settlement-procedure",
+    "document_id": "go-lok-adalat-settlement",
+    "source": "supplemental"
+  },
+  {
+    "base": "lpc-preparation",
+    "title": "LPC Preparation",
+    "category": "establishment",
+    "flagship_slug": "lpc-preparation-office-guide",
+    "procedure_slug": "lpc-preparation-office-guide-procedure",
+    "document_id": "go-lpc-preparation",
+    "source": "mega-bank"
+  },
+  {
+    "base": "macp-benefit",
+    "title": "MACP Benefit",
+    "category": "finance",
+    "flagship_slug": "macp-benefit-office-guide",
+    "procedure_slug": "macp-benefit-office-guide-procedure",
+    "document_id": "go-macp-benefit",
+    "source": "mega-bank"
+  },
+  {
+    "base": "maternity-leave",
+    "title": "Maternity Leave",
+    "category": "leave",
+    "flagship_slug": "maternity-leave",
+    "procedure_slug": "maternity-leave-procedure",
+    "document_id": "go-maternity-leave",
+    "source": "mega-bank"
+  },
+  {
+    "base": "maternity-leave-rules",
+    "title": "Maternity Leave Rules (Latest Amendments)",
+    "category": "leave",
+    "flagship_slug": "maternity-leave-rules",
+    "procedure_slug": "maternity-leave-rules-procedure",
+    "document_id": "go-maternity-leave-rules",
+    "source": "all-topics"
+  },
+  {
+    "base": "medical-reimbursement",
+    "title": "Medical Reimbursement",
+    "category": "health",
+    "flagship_slug": "medical-reimbursement",
+    "procedure_slug": "medical-reimbursement-procedure",
+    "document_id": "go-medical-reimbursement",
+    "source": "mega-bank"
+  },
+  {
+    "base": "minor-major-penalty",
+    "title": "Minor Penalty vs Major Penalty Proceedings",
+    "category": "conduct",
+    "flagship_slug": "minor-major-penalty",
+    "procedure_slug": "minor-major-penalty-procedure",
+    "document_id": "go-minor-major-penalty",
+    "source": "all-topics"
+  },
+  {
+    "base": "gpf-missing-credits",
+    "title": "Missing GPF Credits – What to Do",
+    "category": "gpf",
+    "flagship_slug": "gpf-missing-credits",
+    "procedure_slug": "gpf-missing-credits-procedure",
+    "document_id": "go-gpf-missing-credits",
+    "source": "all-topics"
+  },
+  {
+    "base": "night-duty-allowance",
+    "title": "Night Duty Allowance",
+    "category": "finance",
+    "flagship_slug": "night-duty-allowance",
+    "procedure_slug": "night-duty-allowance-procedure",
+    "document_id": "go-night-duty-allowance",
+    "source": "supplemental"
+  },
+  {
+    "base": "noc-passport",
+    "title": "NOC for Passport",
+    "category": "establishment",
+    "flagship_slug": "noc-passport-office-guide",
+    "procedure_slug": "noc-passport-office-guide-procedure",
+    "document_id": "go-noc-passport",
+    "source": "mega-bank"
+  },
+  {
+    "base": "ndc-certificate",
+    "title": "Non-Drawal Certificate",
+    "category": "finance",
+    "flagship_slug": "ndc-certificate-office-guide",
+    "procedure_slug": "ndc-certificate-office-guide-procedure",
+    "document_id": "go-ndc-certificate",
+    "source": "mega-bank"
+  },
+  {
+    "base": "office-order-drafting",
+    "title": "Office Order Drafting",
+    "category": "establishment",
+    "flagship_slug": "office-order-drafting",
+    "procedure_slug": "office-order-drafting-procedure",
+    "document_id": "go-office-order-drafting",
+    "source": "supplemental"
+  },
+  {
+    "base": "outsourcing-staff-management",
+    "title": "Outsourcing Staff Management Guidelines",
+    "category": "health",
+    "flagship_slug": "outsourcing-staff-management",
+    "procedure_slug": "outsourcing-staff-management-procedure",
+    "document_id": "go-outsourcing-staff-management",
+    "source": "all-topics"
+  },
+  {
+    "base": "pay-fixation-promotion",
+    "title": "Pay Fixation on Promotion",
+    "category": "finance",
+    "flagship_slug": "pay-fixation-promotion-office-guide",
+    "procedure_slug": "pay-fixation-promotion-office-guide-procedure",
+    "document_id": "go-pay-fixation-promotion",
+    "source": "mega-bank"
+  },
+  {
+    "base": "pay-fixation-fr-22b",
+    "title": "Pay Fixation under FR 22-B",
+    "category": "establishment",
+    "flagship_slug": "pay-fixation-fr-22b",
+    "procedure_slug": "pay-fixation-fr-22b-procedure",
+    "document_id": "go-pay-fixation-fr-22b",
+    "source": "all-topics"
+  },
+  {
+    "base": "pension-proposal",
+    "title": "Pension Proposal",
+    "category": "finance",
+    "flagship_slug": "pension-proposal",
+    "procedure_slug": "pension-proposal-procedure",
+    "document_id": "go-pension-proposal",
+    "source": "mega-bank"
+  },
+  {
+    "base": "prc-2022-fixation",
+    "title": "PRC 2022 Pay Fixation",
+    "category": "finance",
+    "flagship_slug": "prc-2022-fixation",
+    "procedure_slug": "prc-2022-fixation-procedure",
+    "document_id": "go-prc-2022-fixation",
+    "source": "mega-bank"
+  },
+  {
+    "base": "promotion-panel-preparation",
+    "title": "Preparation of Promotion Panels",
+    "category": "establishment",
+    "flagship_slug": "promotion-panel-preparation",
+    "procedure_slug": "promotion-panel-preparation-procedure",
+    "document_id": "go-promotion-panel-preparation",
+    "source": "all-topics"
+  },
+  {
+    "base": "seniority-list-preparation",
+    "title": "Preparation of Seniority Lists",
+    "category": "establishment",
+    "flagship_slug": "seniority-list-preparation",
+    "procedure_slug": "seniority-list-preparation-procedure",
+    "document_id": "go-seniority-list-preparation",
+    "source": "all-topics"
+  },
+  {
+    "base": "probation-declaration",
+    "title": "Probation Declaration",
+    "category": "establishment",
+    "flagship_slug": "probation-declaration-office-guide",
+    "procedure_slug": "probation-declaration-office-guide-procedure",
+    "document_id": "go-probation-declaration",
+    "source": "all-topics"
+  },
+  {
+    "base": "promotion-process",
+    "title": "Promotion Process",
+    "category": "establishment",
+    "flagship_slug": "promotion-process-step-by-step",
+    "procedure_slug": "promotion-process-step-by-step-procedure",
+    "document_id": "go-promotion-process",
+    "source": "article-scan"
+  },
+  {
+    "base": "promotion-process-step-by-step",
+    "title": "Promotion Process – Step by Step",
+    "category": "establishment",
+    "flagship_slug": "promotion-process-step-by-step",
+    "procedure_slug": "promotion-process-step-by-step-procedure",
+    "document_id": "go-promotion-process-step-by-step",
+    "source": "all-topics"
+  },
+  {
+    "base": "promotion-seniority",
+    "title": "Promotion Seniority",
+    "category": "establishment",
+    "flagship_slug": "promotion-seniority",
+    "procedure_slug": "promotion-seniority-procedure",
+    "document_id": "go-promotion-seniority",
+    "source": "mega-bank"
+  },
+  {
+    "base": "rbps-retirement",
+    "title": "RBPS Retirement Benefits",
+    "category": "finance",
+    "flagship_slug": "rbps-retirement",
+    "procedure_slug": "rbps-retirement-procedure",
+    "document_id": "go-rbps-retirement",
+    "source": "mega-bank"
+  },
+  {
+    "base": "relinquishment-promotion-rule-28",
+    "title": "Relinquishment of Promotion under Rule 28",
+    "category": "establishment",
+    "flagship_slug": "relinquishment-promotion-rule-28",
+    "procedure_slug": "relinquishment-promotion-rule-28-procedure",
+    "document_id": "go-relinquishment-promotion-rule-28",
+    "source": "all-topics"
+  },
+  {
+    "base": "reservation-rules-promotions",
+    "title": "Reservation Rules in Promotions",
+    "category": "establishment",
+    "flagship_slug": "reservation-rules-promotions",
+    "procedure_slug": "reservation-rules-promotions-procedure",
+    "document_id": "go-reservation-rules-promotions",
+    "source": "all-topics"
+  },
+  {
+    "base": "retirement-proceedings",
+    "title": "Retirement Proceedings",
+    "category": "establishment",
+    "flagship_slug": "retirement-proceedings",
+    "procedure_slug": "retirement-proceedings-procedure",
+    "document_id": "go-retirement-proceedings",
+    "source": "mega-bank"
+  },
+  {
+    "base": "retirement-processing",
+    "title": "Retirement Processing Checklist",
+    "category": "establishment",
+    "flagship_slug": "retirement-processing",
+    "procedure_slug": "retirement-processing-procedure",
+    "document_id": "go-retirement-processing",
+    "source": "all-topics"
+  },
+  {
+    "base": "risk-allowance",
+    "title": "Risk Allowance",
+    "category": "finance",
+    "flagship_slug": "risk-allowance",
+    "procedure_slug": "risk-allowance-procedure",
+    "document_id": "go-risk-allowance",
+    "source": "supplemental"
+  },
+  {
+    "base": "rti-reply",
+    "title": "RTI Reply Preparation",
+    "category": "establishment",
+    "flagship_slug": "rti-reply",
+    "procedure_slug": "rti-reply-procedure",
+    "document_id": "go-rti-reply",
+    "source": "supplemental"
+  },
+  {
+    "base": "rule-28-relinquishment",
+    "title": "Rule 28 Relinquishment",
+    "category": "service-rules",
+    "flagship_slug": "rule-28-relinquishment",
+    "procedure_slug": "rule-28-relinquishment-procedure",
+    "document_id": "go-rule-28-relinquishment",
+    "source": "mega-bank"
+  },
+  {
+    "base": "seniority-list-objection",
+    "title": "Seniority List Objection",
+    "category": "establishment",
+    "flagship_slug": "seniority-list-objection",
+    "procedure_slug": "seniority-list-objection-procedure",
+    "document_id": "go-seniority-list-objection",
+    "source": "supplemental"
+  },
+  {
+    "base": "service-register",
+    "title": "Service Register Maintenance",
+    "category": "establishment",
+    "flagship_slug": "service-register-office-guide",
+    "procedure_slug": "service-register-office-guide-procedure",
+    "document_id": "go-service-register",
+    "source": "mega-bank"
+  },
+  {
+    "base": "service-register-maintenance",
+    "title": "Service Register Maintenance Guide",
+    "category": "establishment",
+    "flagship_slug": "service-register-maintenance",
+    "procedure_slug": "service-register-maintenance-procedure",
+    "document_id": "go-service-register-maintenance",
+    "source": "all-topics"
+  },
+  {
+    "base": "service-verification",
+    "title": "Service Verification Procedure",
+    "category": "establishment",
+    "flagship_slug": "service-verification",
+    "procedure_slug": "service-verification-procedure",
+    "document_id": "go-service-verification",
+    "source": "all-topics"
+  },
+  {
+    "base": "special-casual-leave",
+    "title": "Special Casual Leave",
+    "category": "leave",
+    "flagship_slug": "special-casual-leave",
+    "procedure_slug": "special-casual-leave-procedure",
+    "document_id": "go-special-casual-leave",
+    "source": "supplemental"
+  },
+  {
+    "base": "store-purchase-procedure",
+    "title": "Store Purchase Procedure under AP Financial Code",
+    "category": "finance",
+    "flagship_slug": "store-purchase-procedure",
+    "procedure_slug": "store-purchase-procedure-procedure",
+    "document_id": "go-store-purchase-procedure",
+    "source": "all-topics"
+  },
+  {
+    "base": "study-leave",
+    "title": "Study Leave Sanction",
+    "category": "leave",
+    "flagship_slug": "study-leave",
+    "procedure_slug": "study-leave-procedure",
+    "document_id": "go-study-leave",
+    "source": "supplemental"
+  },
+  {
+    "base": "supplementary-bill",
+    "title": "Supplementary Bill",
+    "category": "treasury",
+    "flagship_slug": "supplementary-bill",
+    "procedure_slug": "supplementary-bill-procedure",
+    "document_id": "go-supplementary-bill",
+    "source": "mega-bank"
+  },
+  {
+    "base": "suspension-procedure-cca",
+    "title": "Suspension Procedure under CCA Rules",
+    "category": "conduct",
+    "flagship_slug": "suspension-procedure-cca",
+    "procedure_slug": "suspension-procedure-cca-procedure",
+    "document_id": "go-suspension-procedure-cca",
+    "source": "all-topics"
+  },
+  {
+    "base": "suspension-proceedings",
+    "title": "Suspension Proceedings",
+    "category": "conduct",
+    "flagship_slug": "suspension-proceedings",
+    "procedure_slug": "suspension-proceedings-procedure",
+    "document_id": "go-suspension-proceedings",
+    "source": "mega-bank"
+  },
+  {
+    "base": "tds-24q",
+    "title": "TDS Form 24Q",
+    "category": "finance",
+    "flagship_slug": "tds-24q",
+    "procedure_slug": "tds-24q-procedure",
+    "document_id": "go-tds-24q",
+    "source": "mega-bank"
+  },
+  {
+    "base": "transfer-joining",
+    "title": "Transfer Joining",
+    "category": "establishment",
+    "flagship_slug": "transfer-joining-office-guide",
+    "procedure_slug": "transfer-joining-office-guide-procedure",
+    "document_id": "go-transfer-joining",
+    "source": "mega-bank"
+  },
+  {
+    "base": "transfer-procedure",
+    "title": "Transfer Procedure for Government Employees",
+    "category": "establishment",
+    "flagship_slug": "transfer-procedure",
+    "procedure_slug": "transfer-procedure-procedure",
+    "document_id": "go-transfer-procedure",
+    "source": "all-topics"
+  },
+  {
+    "base": "transfer-relieving",
+    "title": "Transfer Relieving",
+    "category": "establishment",
+    "flagship_slug": "transfer-relieving-office-guide",
+    "procedure_slug": "transfer-relieving-office-guide-procedure",
+    "document_id": "go-transfer-relieving",
+    "source": "mega-bank"
+  },
+  {
+    "base": "transport-allowance",
+    "title": "Transport Allowance",
+    "category": "finance",
+    "flagship_slug": "transport-allowance",
+    "procedure_slug": "transport-allowance-procedure",
+    "document_id": "go-transport-allowance",
+    "source": "supplemental"
+  },
+  {
+    "base": "treasury-rejection",
+    "title": "Treasury Bill Rejection",
+    "category": "treasury",
+    "flagship_slug": "treasury-rejection",
+    "procedure_slug": "treasury-rejection-procedure",
+    "document_id": "go-treasury-rejection",
+    "source": "mega-bank"
+  },
+  {
+    "base": "treasury-objections",
+    "title": "Treasury Objections and How to Avoid Them",
+    "category": "finance",
+    "flagship_slug": "treasury-objections",
+    "procedure_slug": "treasury-objections-procedure",
+    "document_id": "go-treasury-objections",
+    "source": "all-topics"
+  },
+  {
+    "base": "tuition-fee-reimbursement",
+    "title": "Tuition Fee Reimbursement",
+    "category": "finance",
+    "flagship_slug": "tuition-fee-reimbursement",
+    "procedure_slug": "tuition-fee-reimbursement-procedure",
+    "document_id": "go-tuition-fee-reimbursement",
+    "source": "mega-bank"
+  },
+  {
+    "base": "vigilance-clearance",
+    "title": "Vigilance Clearance",
+    "category": "establishment",
+    "flagship_slug": "vigilance-clearance-office-guide",
+    "procedure_slug": "vigilance-clearance-office-guide-procedure",
+    "document_id": "go-vigilance-clearance",
+    "source": "mega-bank"
+  }
+]

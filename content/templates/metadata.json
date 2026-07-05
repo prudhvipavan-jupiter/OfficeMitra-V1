@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "tpl-apgli-common-mistakes",
+    "title": "Common APGLI Mistakes and Solutions — Proceedings Template",
+    "category": "apgli",
+    "description": "Blank proceedings / office note format for common apgli mistakes and solutions. Customize with your institution details.",
+    "description_te": "Common APGLI Mistakes and Solutions blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "apgli-common-mistakes"
+    ],
+    "related_procedures": [
+      "apgli-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-apgli-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-apgli-loan-application",
+    "title": "APGLI Loan Application Guide — Proceedings Template",
+    "category": "apgli",
+    "description": "Blank proceedings / office note format for apgli loan application guide. Customize with your institution details.",
+    "description_te": "APGLI Loan Application Guide blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "apgli-loan-application"
+    ],
+    "related_procedures": [
+      "apgli-loan-application-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-apgli-loan-application.pdf"
+  },
+  {
+    "id": "tpl-apgli-maturity-claim",
+    "title": "APGLI Maturity Claim Process — Proceedings Template",
+    "category": "apgli",
+    "description": "Blank proceedings / office note format for apgli maturity claim process. Customize with your institution details.",
+    "description_te": "APGLI Maturity Claim Process blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "apgli-maturity-claim"
+    ],
+    "related_procedures": [
+      "apgli-maturity-claim-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-apgli-maturity-claim.pdf"
+  },
+  {
+    "id": "tpl-apgli-policy-registration",
+    "title": "APGLI Policy Registration Process — Proceedings Template",
+    "category": "apgli",
+    "description": "Blank proceedings / office note format for apgli policy registration process. Customize with your institution details.",
+    "description_te": "APGLI Policy Registration Process blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "apgli-policy-registration"
+    ],
+    "related_procedures": [
+      "apgli-policy-registration-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-apgli-policy-registration.pdf"
+  },
+  {
+    "id": "tpl-apgli-premium-revision",
+    "title": "APGLI Premium Revision Procedure — Proceedings Template",
+    "category": "apgli",
+    "description": "Blank proceedings / office note format for apgli premium revision procedure. Customize with your institution details.",
+    "description_te": "APGLI Premium Revision Procedure blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "apgli-premium-revision"
+    ],
+    "related_procedures": [
+      "apgli-premium-revision-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-apgli-premium-revision.pdf"
+  },
+  {
+    "id": "tpl-ap-civil-services-conduct-rules",
+    "title": "AP Civil Services Conduct Rules Explained — Proceedings Template",
+    "category": "conduct",
+    "description": "Blank proceedings / office note format for ap civil services conduct rules explained. Customize with your institution details.",
+    "description_te": "AP Civil Services Conduct Rules Explained blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "ap-civil-services-conduct-rules"
+    ],
+    "related_procedures": [
+      "ap-civil-services-conduct-rules-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-ap-civil-services-conduct-rules.pdf"
+  },
+  {
+    "id": "tpl-charge-memo-audit-ready",
+    "title": "Charge Memo — Proceedings Template",
+    "category": "conduct",
+    "description": "Blank proceedings / office note format for charge memo. Customize with your institution details.",
+    "description_te": "Charge Memo blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "charge-memo-audit-ready"
+    ],
+    "related_procedures": [
+      "charge-memo-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-charge-memo-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-charge-memo-cfms-workflow",
+    "title": "Charge Memo — Proceedings Template",
+    "category": "conduct",
+    "description": "Blank proceedings / office note format for charge memo. Customize with your institution details.",
+    "description_te": "Charge Memo blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "charge-memo-cfms-workflow"
+    ],
+    "related_procedures": [
+      "charge-memo-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-charge-memo-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-charge-memo-common-mistakes",
+    "title": "Charge Memo — Proceedings Template",
+    "category": "conduct",
+    "description": "Blank proceedings / office note format for charge memo. Customize with your institution details.",
+    "description_te": "Charge Memo blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "charge-memo-common-mistakes"
+    ],
+    "related_procedures": [
+      "charge-memo-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-charge-memo-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-charge-memo-ddo-checklist",
+    "title": "Charge Memo — Proceedings Template",
+    "category": "conduct",
+    "description": "Blank proceedings / office note format for charge memo. Customize with your institution details.",
+    "description_te": "Charge Memo blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "charge-memo-ddo-checklist"
+    ],
+    "related_procedures": [
+      "charge-memo-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-charge-memo-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-charge-memo-office-guide",
+    "title": "Charge Memo — Proceedings Template",
+    "category": "conduct",
+    "description": "Blank proceedings / office note format for charge memo. Customize with your institution details.",
+    "description_te": "Charge Memo blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "charge-memo-office-guide"
+    ],
+    "related_procedures": [
+      "charge-memo-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-charge-memo-office-guide.pdf"
+  },
+  {
+    "id": "tpl-charge-memo-preparation",
+    "title": "Charge Memo Preparation Guide — Proceedings Template",
+    "category": "conduct",
+    "description": "Blank proceedings / office note format for charge memo preparation guide. Customize with your institution details.",
+    "description_te": "Charge Memo Preparation Guide blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "charge-memo-preparation"
+    ],
+    "related_procedures": [
+      "charge-memo-preparation-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-charge-memo-preparation.pdf"
+  },
+  {
+    "id": "tpl-charge-memo-step-by-step",
+    "title": "Charge Memo — Proceedings Template",
+    "category": "conduct",
+    "description": "Blank proceedings / office note format for charge memo. Customize with your institution details.",
+    "description_te": "Charge Memo blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "charge-memo-step-by-step"
+    ],
+    "related_procedures": [
+      "charge-memo-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-charge-memo-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-departmental-enquiry",
+    "title": "Departmental Enquiry Process — Proceedings Template",
+    "category": "conduct",
+    "description": "Blank proceedings / office note format for departmental enquiry process. Customize with your institution details.",
+    "description_te": "Departmental Enquiry Process blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "departmental-enquiry"
+    ],
+    "related_procedures": [
+      "departmental-enquiry-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-departmental-enquiry.pdf"
+  },
+  {
+    "id": "tpl-minor-major-penalty",
+    "title": "Minor Penalty vs Major Penalty Proceedings — Proceedings Template",
+    "category": "conduct",
+    "description": "Blank proceedings / office note format for minor penalty vs major penalty proceedings. Customize with your institution details.",
+    "description_te": "Minor Penalty vs Major Penalty Proceedings blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "minor-major-penalty"
+    ],
+    "related_procedures": [
+      "minor-major-penalty-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-minor-major-penalty.pdf"
+  },
+  {
+    "id": "tpl-suspension-procedure-cca",
+    "title": "Suspension Procedure under CCA Rules — Proceedings Template",
+    "category": "conduct",
+    "description": "Blank proceedings / office note format for suspension procedure under cca rules. Customize with your institution details.",
+    "description_te": "Suspension Procedure under CCA Rules blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "suspension-procedure-cca"
+    ],
+    "related_procedures": [
+      "suspension-procedure-cca-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-suspension-procedure-cca.pdf"
+  },
+  {
+    "id": "tpl-approved-probation-declaration",
+    "title": "Declaration of Approved Probation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for declaration of approved probation. Customize with your institution details.",
+    "description_te": "Declaration of Approved Probation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "approved-probation-declaration"
+    ],
+    "related_procedures": [
+      "approved-probation-declaration-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-approved-probation-declaration.pdf"
+  },
+  {
+    "id": "tpl-bcr-attendance-audit-ready",
+    "title": "BCR Attendance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for bcr attendance. Customize with your institution details.",
+    "description_te": "BCR Attendance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "bcr-attendance-audit-ready"
+    ],
+    "related_procedures": [
+      "bcr-attendance-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-bcr-attendance-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-bcr-attendance-cfms-workflow",
+    "title": "BCR Attendance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for bcr attendance. Customize with your institution details.",
+    "description_te": "BCR Attendance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "bcr-attendance-cfms-workflow"
+    ],
+    "related_procedures": [
+      "bcr-attendance-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-bcr-attendance-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-bcr-attendance-common-mistakes",
+    "title": "BCR Attendance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for bcr attendance. Customize with your institution details.",
+    "description_te": "BCR Attendance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "bcr-attendance-common-mistakes"
+    ],
+    "related_procedures": [
+      "bcr-attendance-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-bcr-attendance-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-bcr-attendance-ddo-checklist",
+    "title": "BCR Attendance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for bcr attendance. Customize with your institution details.",
+    "description_te": "BCR Attendance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "bcr-attendance-ddo-checklist"
+    ],
+    "related_procedures": [
+      "bcr-attendance-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-bcr-attendance-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-bcr-attendance-office-guide",
+    "title": "BCR Attendance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for bcr attendance. Customize with your institution details.",
+    "description_te": "BCR Attendance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "bcr-attendance-office-guide"
+    ],
+    "related_procedures": [
+      "bcr-attendance-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-bcr-attendance-office-guide.pdf"
+  },
+  {
+    "id": "tpl-bcr-attendance-step-by-step",
+    "title": "BCR Attendance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for bcr attendance. Customize with your institution details.",
+    "description_te": "BCR Attendance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "bcr-attendance-step-by-step"
+    ],
+    "related_procedures": [
+      "bcr-attendance-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-bcr-attendance-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-certificate-attestation-audit-ready",
+    "title": "Certificate Attestation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for certificate attestation. Customize with your institution details.",
+    "description_te": "Certificate Attestation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "certificate-attestation-audit-ready"
+    ],
+    "related_procedures": [
+      "certificate-attestation-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-certificate-attestation-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-certificate-attestation-cfms-workflow",
+    "title": "Certificate Attestation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for certificate attestation. Customize with your institution details.",
+    "description_te": "Certificate Attestation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "certificate-attestation-cfms-workflow"
+    ],
+    "related_procedures": [
+      "certificate-attestation-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-certificate-attestation-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-certificate-attestation-common-mistakes",
+    "title": "Certificate Attestation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for certificate attestation. Customize with your institution details.",
+    "description_te": "Certificate Attestation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "certificate-attestation-common-mistakes"
+    ],
+    "related_procedures": [
+      "certificate-attestation-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-certificate-attestation-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-certificate-attestation-ddo-checklist",
+    "title": "Certificate Attestation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for certificate attestation. Customize with your institution details.",
+    "description_te": "Certificate Attestation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "certificate-attestation-ddo-checklist"
+    ],
+    "related_procedures": [
+      "certificate-attestation-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-certificate-attestation-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-certificate-attestation-office-guide",
+    "title": "Certificate Attestation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for certificate attestation. Customize with your institution details.",
+    "description_te": "Certificate Attestation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "certificate-attestation-office-guide"
+    ],
+    "related_procedures": [
+      "certificate-attestation-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-certificate-attestation-office-guide.pdf"
+  },
+  {
+    "id": "tpl-certificate-attestation-step-by-step",
+    "title": "Certificate Attestation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for certificate attestation. Customize with your institution details.",
+    "description_te": "Certificate Attestation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "certificate-attestation-step-by-step"
+    ],
+    "related_procedures": [
+      "certificate-attestation-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-certificate-attestation-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-compassionate-appointment",
+    "title": "Compassionate Appointment Guidelines — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for compassionate appointment guidelines. Customize with your institution details.",
+    "description_te": "Compassionate Appointment Guidelines blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "compassionate-appointment"
+    ],
+    "related_procedures": [
+      "compassionate-appointment-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-compassionate-appointment.pdf"
+  },
+  {
+    "id": "tpl-increment-sanction",
+    "title": "Increment Sanction Procedure — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for increment sanction procedure. Customize with your institution details.",
+    "description_te": "Increment Sanction Procedure blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "increment-sanction"
+    ],
+    "related_procedures": [
+      "increment-sanction-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-increment-sanction.pdf"
+  },
+  {
+    "id": "tpl-joining-time-rules",
+    "title": "Joining Time Rules Explained — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for joining time rules explained. Customize with your institution details.",
+    "description_te": "Joining Time Rules Explained blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "joining-time-rules"
+    ],
+    "related_procedures": [
+      "joining-time-rules-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-joining-time-rules.pdf"
+  },
+  {
+    "id": "tpl-lpc-preparation-audit-ready",
+    "title": "LPC Preparation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for lpc preparation. Customize with your institution details.",
+    "description_te": "LPC Preparation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "lpc-preparation-audit-ready"
+    ],
+    "related_procedures": [
+      "lpc-preparation-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-lpc-preparation-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-lpc-preparation-cfms-workflow",
+    "title": "LPC Preparation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for lpc preparation. Customize with your institution details.",
+    "description_te": "LPC Preparation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "lpc-preparation-cfms-workflow"
+    ],
+    "related_procedures": [
+      "lpc-preparation-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-lpc-preparation-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-lpc-preparation-common-mistakes",
+    "title": "LPC Preparation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for lpc preparation. Customize with your institution details.",
+    "description_te": "LPC Preparation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "lpc-preparation-common-mistakes"
+    ],
+    "related_procedures": [
+      "lpc-preparation-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-lpc-preparation-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-lpc-preparation-ddo-checklist",
+    "title": "LPC Preparation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for lpc preparation. Customize with your institution details.",
+    "description_te": "LPC Preparation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "lpc-preparation-ddo-checklist"
+    ],
+    "related_procedures": [
+      "lpc-preparation-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-lpc-preparation-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-lpc-preparation-office-guide",
+    "title": "LPC Preparation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for lpc preparation. Customize with your institution details.",
+    "description_te": "LPC Preparation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "lpc-preparation-office-guide"
+    ],
+    "related_procedures": [
+      "lpc-preparation-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-lpc-preparation-office-guide.pdf"
+  },
+  {
+    "id": "tpl-lpc-preparation-step-by-step",
+    "title": "LPC Preparation — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for lpc preparation. Customize with your institution details.",
+    "description_te": "LPC Preparation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "lpc-preparation-step-by-step"
+    ],
+    "related_procedures": [
+      "lpc-preparation-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-lpc-preparation-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-noc-passport-audit-ready",
+    "title": "NOC for Passport — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for noc for passport. Customize with your institution details.",
+    "description_te": "NOC for Passport blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "noc-passport-audit-ready"
+    ],
+    "related_procedures": [
+      "noc-passport-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-noc-passport-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-noc-passport-cfms-workflow",
+    "title": "NOC for Passport — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for noc for passport. Customize with your institution details.",
+    "description_te": "NOC for Passport blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "noc-passport-cfms-workflow"
+    ],
+    "related_procedures": [
+      "noc-passport-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-noc-passport-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-noc-passport-common-mistakes",
+    "title": "NOC for Passport — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for noc for passport. Customize with your institution details.",
+    "description_te": "NOC for Passport blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "noc-passport-common-mistakes"
+    ],
+    "related_procedures": [
+      "noc-passport-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-noc-passport-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-noc-passport-ddo-checklist",
+    "title": "NOC for Passport — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for noc for passport. Customize with your institution details.",
+    "description_te": "NOC for Passport blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "noc-passport-ddo-checklist"
+    ],
+    "related_procedures": [
+      "noc-passport-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-noc-passport-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-noc-passport-office-guide",
+    "title": "NOC for Passport — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for noc for passport. Customize with your institution details.",
+    "description_te": "NOC for Passport blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "noc-passport-office-guide"
+    ],
+    "related_procedures": [
+      "noc-passport-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-noc-passport-office-guide.pdf"
+  },
+  {
+    "id": "tpl-noc-passport-step-by-step",
+    "title": "NOC for Passport — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for noc for passport. Customize with your institution details.",
+    "description_te": "NOC for Passport blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "noc-passport-step-by-step"
+    ],
+    "related_procedures": [
+      "noc-passport-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-noc-passport-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-pay-fixation-fr-22b",
+    "title": "Pay Fixation under FR 22-B — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for pay fixation under fr 22-b. Customize with your institution details.",
+    "description_te": "Pay Fixation under FR 22-B blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "pay-fixation-fr-22b"
+    ],
+    "related_procedures": [
+      "pay-fixation-fr-22b-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-pay-fixation-fr-22b.pdf"
+  },
+  {
+    "id": "tpl-probation-declaration-audit-ready",
+    "title": "Probation Declaration — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for probation declaration. Customize with your institution details.",
+    "description_te": "Probation Declaration blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "probation-declaration-audit-ready"
+    ],
+    "related_procedures": [
+      "probation-declaration-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-probation-declaration-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-probation-declaration-cfms-workflow",
+    "title": "Probation Declaration — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for probation declaration. Customize with your institution details.",
+    "description_te": "Probation Declaration blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "probation-declaration-cfms-workflow"
+    ],
+    "related_procedures": [
+      "probation-declaration-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-probation-declaration-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-probation-declaration-common-mistakes",
+    "title": "Probation Declaration — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for probation declaration. Customize with your institution details.",
+    "description_te": "Probation Declaration blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "probation-declaration-common-mistakes"
+    ],
+    "related_procedures": [
+      "probation-declaration-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-probation-declaration-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-probation-declaration-ddo-checklist",
+    "title": "Probation Declaration — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for probation declaration. Customize with your institution details.",
+    "description_te": "Probation Declaration blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "probation-declaration-ddo-checklist"
+    ],
+    "related_procedures": [
+      "probation-declaration-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-probation-declaration-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-probation-declaration-office-guide",
+    "title": "Probation Declaration — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for probation declaration. Customize with your institution details.",
+    "description_te": "Probation Declaration blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "probation-declaration-office-guide"
+    ],
+    "related_procedures": [
+      "probation-declaration-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-probation-declaration-office-guide.pdf"
+  },
+  {
+    "id": "tpl-probation-declaration-step-by-step",
+    "title": "Probation Declaration — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for probation declaration. Customize with your institution details.",
+    "description_te": "Probation Declaration blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "probation-declaration-step-by-step"
+    ],
+    "related_procedures": [
+      "probation-declaration-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-probation-declaration-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-probation-declaration",
+    "title": "Probation Declaration Procedure — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for probation declaration procedure. Customize with your institution details.",
+    "description_te": "Probation Declaration Procedure blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "probation-declaration"
+    ],
+    "related_procedures": [
+      "probation-declaration-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-probation-declaration.pdf"
+  },
+  {
+    "id": "tpl-promotion-panel-preparation",
+    "title": "Preparation of Promotion Panels — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for preparation of promotion panels. Customize with your institution details.",
+    "description_te": "Preparation of Promotion Panels blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "promotion-panel-preparation"
+    ],
+    "related_procedures": [
+      "promotion-panel-preparation-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-promotion-panel-preparation.pdf"
+  },
+  {
+    "id": "tpl-promotion-process-step-by-step",
+    "title": "Promotion Process – Step by Step — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for promotion process – step by step. Customize with your institution details.",
+    "description_te": "Promotion Process – Step by Step blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "promotion-process-step-by-step"
+    ],
+    "related_procedures": [
+      "promotion-process-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-promotion-process-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-relinquishment-promotion-rule-28",
+    "title": "Relinquishment of Promotion under Rule 28 — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for relinquishment of promotion under rule 28. Customize with your institution details.",
+    "description_te": "Relinquishment of Promotion under Rule 28 blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "relinquishment-promotion-rule-28"
+    ],
+    "related_procedures": [
+      "relinquishment-promotion-rule-28-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-relinquishment-promotion-rule-28.pdf"
+  },
+  {
+    "id": "tpl-reservation-rules-promotions",
+    "title": "Reservation Rules in Promotions — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for reservation rules in promotions. Customize with your institution details.",
+    "description_te": "Reservation Rules in Promotions blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "reservation-rules-promotions"
+    ],
+    "related_procedures": [
+      "reservation-rules-promotions-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-reservation-rules-promotions.pdf"
+  },
+  {
+    "id": "tpl-retirement-processing",
+    "title": "Retirement Processing Checklist — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for retirement processing checklist. Customize with your institution details.",
+    "description_te": "Retirement Processing Checklist blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "retirement-processing"
+    ],
+    "related_procedures": [
+      "retirement-processing-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-retirement-processing.pdf"
+  },
+  {
+    "id": "tpl-seniority-list-preparation",
+    "title": "Preparation of Seniority Lists — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for preparation of seniority lists. Customize with your institution details.",
+    "description_te": "Preparation of Seniority Lists blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "seniority-list-preparation"
+    ],
+    "related_procedures": [
+      "seniority-list-preparation-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-seniority-list-preparation.pdf"
+  },
+  {
+    "id": "tpl-service-register-audit-ready",
+    "title": "Service Register Maintenance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for service register maintenance. Customize with your institution details.",
+    "description_te": "Service Register Maintenance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "service-register-audit-ready"
+    ],
+    "related_procedures": [
+      "service-register-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-service-register-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-service-register-cfms-workflow",
+    "title": "Service Register Maintenance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for service register maintenance. Customize with your institution details.",
+    "description_te": "Service Register Maintenance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "service-register-cfms-workflow"
+    ],
+    "related_procedures": [
+      "service-register-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-service-register-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-service-register-common-mistakes",
+    "title": "Service Register Maintenance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for service register maintenance. Customize with your institution details.",
+    "description_te": "Service Register Maintenance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "service-register-common-mistakes"
+    ],
+    "related_procedures": [
+      "service-register-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-service-register-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-service-register-ddo-checklist",
+    "title": "Service Register Maintenance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for service register maintenance. Customize with your institution details.",
+    "description_te": "Service Register Maintenance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "service-register-ddo-checklist"
+    ],
+    "related_procedures": [
+      "service-register-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-service-register-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-service-register-maintenance",
+    "title": "Service Register Maintenance Guide — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for service register maintenance guide. Customize with your institution details.",
+    "description_te": "Service Register Maintenance Guide blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "service-register-maintenance"
+    ],
+    "related_procedures": [
+      "service-register-maintenance-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-service-register-maintenance.pdf"
+  },
+  {
+    "id": "tpl-service-register-office-guide",
+    "title": "Service Register Maintenance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for service register maintenance. Customize with your institution details.",
+    "description_te": "Service Register Maintenance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "service-register-office-guide"
+    ],
+    "related_procedures": [
+      "service-register-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-service-register-office-guide.pdf"
+  },
+  {
+    "id": "tpl-service-register-step-by-step",
+    "title": "Service Register Maintenance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for service register maintenance. Customize with your institution details.",
+    "description_te": "Service Register Maintenance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "service-register-step-by-step"
+    ],
+    "related_procedures": [
+      "service-register-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-service-register-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-service-verification",
+    "title": "Service Verification Procedure — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for service verification procedure. Customize with your institution details.",
+    "description_te": "Service Verification Procedure blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "service-verification"
+    ],
+    "related_procedures": [
+      "service-verification-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-service-verification.pdf"
+  },
+  {
+    "id": "tpl-transfer-joining-audit-ready",
+    "title": "Transfer Joining — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer joining. Customize with your institution details.",
+    "description_te": "Transfer Joining blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-joining-audit-ready"
+    ],
+    "related_procedures": [
+      "transfer-joining-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-joining-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-transfer-joining-cfms-workflow",
+    "title": "Transfer Joining — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer joining. Customize with your institution details.",
+    "description_te": "Transfer Joining blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-joining-cfms-workflow"
+    ],
+    "related_procedures": [
+      "transfer-joining-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-joining-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-transfer-joining-common-mistakes",
+    "title": "Transfer Joining — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer joining. Customize with your institution details.",
+    "description_te": "Transfer Joining blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-joining-common-mistakes"
+    ],
+    "related_procedures": [
+      "transfer-joining-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-joining-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-transfer-joining-ddo-checklist",
+    "title": "Transfer Joining — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer joining. Customize with your institution details.",
+    "description_te": "Transfer Joining blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-joining-ddo-checklist"
+    ],
+    "related_procedures": [
+      "transfer-joining-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-joining-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-transfer-joining-office-guide",
+    "title": "Transfer Joining — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer joining. Customize with your institution details.",
+    "description_te": "Transfer Joining blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-joining-office-guide"
+    ],
+    "related_procedures": [
+      "transfer-joining-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-joining-office-guide.pdf"
+  },
+  {
+    "id": "tpl-transfer-joining-step-by-step",
+    "title": "Transfer Joining — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer joining. Customize with your institution details.",
+    "description_te": "Transfer Joining blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-joining-step-by-step"
+    ],
+    "related_procedures": [
+      "transfer-joining-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-joining-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-transfer-procedure",
+    "title": "Transfer Procedure for Government Employees — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer procedure for government employees. Customize with your institution details.",
+    "description_te": "Transfer Procedure for Government Employees blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-procedure"
+    ],
+    "related_procedures": [
+      "transfer-procedure-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-procedure.pdf"
+  },
+  {
+    "id": "tpl-transfer-relieving-audit-ready",
+    "title": "Transfer Relieving — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer relieving. Customize with your institution details.",
+    "description_te": "Transfer Relieving blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-relieving-audit-ready"
+    ],
+    "related_procedures": [
+      "transfer-relieving-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-relieving-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-transfer-relieving-cfms-workflow",
+    "title": "Transfer Relieving — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer relieving. Customize with your institution details.",
+    "description_te": "Transfer Relieving blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-relieving-cfms-workflow"
+    ],
+    "related_procedures": [
+      "transfer-relieving-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-relieving-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-transfer-relieving-common-mistakes",
+    "title": "Transfer Relieving — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer relieving. Customize with your institution details.",
+    "description_te": "Transfer Relieving blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-relieving-common-mistakes"
+    ],
+    "related_procedures": [
+      "transfer-relieving-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-relieving-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-transfer-relieving-ddo-checklist",
+    "title": "Transfer Relieving — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer relieving. Customize with your institution details.",
+    "description_te": "Transfer Relieving blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-relieving-ddo-checklist"
+    ],
+    "related_procedures": [
+      "transfer-relieving-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-relieving-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-transfer-relieving-office-guide",
+    "title": "Transfer Relieving — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer relieving. Customize with your institution details.",
+    "description_te": "Transfer Relieving blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-relieving-office-guide"
+    ],
+    "related_procedures": [
+      "transfer-relieving-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-relieving-office-guide.pdf"
+  },
+  {
+    "id": "tpl-transfer-relieving-step-by-step",
+    "title": "Transfer Relieving — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for transfer relieving. Customize with your institution details.",
+    "description_te": "Transfer Relieving blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "transfer-relieving-step-by-step"
+    ],
+    "related_procedures": [
+      "transfer-relieving-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-transfer-relieving-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-vigilance-clearance-audit-ready",
+    "title": "Vigilance Clearance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for vigilance clearance. Customize with your institution details.",
+    "description_te": "Vigilance Clearance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "vigilance-clearance-audit-ready"
+    ],
+    "related_procedures": [
+      "vigilance-clearance-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-vigilance-clearance-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-vigilance-clearance-cfms-workflow",
+    "title": "Vigilance Clearance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for vigilance clearance. Customize with your institution details.",
+    "description_te": "Vigilance Clearance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "vigilance-clearance-cfms-workflow"
+    ],
+    "related_procedures": [
+      "vigilance-clearance-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-vigilance-clearance-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-vigilance-clearance-common-mistakes",
+    "title": "Vigilance Clearance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for vigilance clearance. Customize with your institution details.",
+    "description_te": "Vigilance Clearance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "vigilance-clearance-common-mistakes"
+    ],
+    "related_procedures": [
+      "vigilance-clearance-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-vigilance-clearance-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-vigilance-clearance-ddo-checklist",
+    "title": "Vigilance Clearance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for vigilance clearance. Customize with your institution details.",
+    "description_te": "Vigilance Clearance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "vigilance-clearance-ddo-checklist"
+    ],
+    "related_procedures": [
+      "vigilance-clearance-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-vigilance-clearance-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-vigilance-clearance-office-guide",
+    "title": "Vigilance Clearance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for vigilance clearance. Customize with your institution details.",
+    "description_te": "Vigilance Clearance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "vigilance-clearance-office-guide"
+    ],
+    "related_procedures": [
+      "vigilance-clearance-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-vigilance-clearance-office-guide.pdf"
+  },
+  {
+    "id": "tpl-vigilance-clearance-step-by-step",
+    "title": "Vigilance Clearance — Proceedings Template",
+    "category": "establishment",
+    "description": "Blank proceedings / office note format for vigilance clearance. Customize with your institution details.",
+    "description_te": "Vigilance Clearance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "vigilance-clearance-step-by-step"
+    ],
+    "related_procedures": [
+      "vigilance-clearance-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-vigilance-clearance-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-aas-stagnation-audit-ready",
+    "title": "AAS Stagnation Increment — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for aas stagnation increment. Customize with your institution details.",
+    "description_te": "AAS Stagnation Increment blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "aas-stagnation-audit-ready"
+    ],
+    "related_procedures": [
+      "aas-stagnation-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-aas-stagnation-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-aas-stagnation-cfms-workflow",
+    "title": "AAS Stagnation Increment — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for aas stagnation increment. Customize with your institution details.",
+    "description_te": "AAS Stagnation Increment blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "aas-stagnation-cfms-workflow"
+    ],
+    "related_procedures": [
+      "aas-stagnation-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-aas-stagnation-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-aas-stagnation-common-mistakes",
+    "title": "AAS Stagnation Increment — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for aas stagnation increment. Customize with your institution details.",
+    "description_te": "AAS Stagnation Increment blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "aas-stagnation-common-mistakes"
+    ],
+    "related_procedures": [
+      "aas-stagnation-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-aas-stagnation-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-aas-stagnation-ddo-checklist",
+    "title": "AAS Stagnation Increment — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for aas stagnation increment. Customize with your institution details.",
+    "description_te": "AAS Stagnation Increment blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "aas-stagnation-ddo-checklist"
+    ],
+    "related_procedures": [
+      "aas-stagnation-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-aas-stagnation-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-aas-stagnation-office-guide",
+    "title": "AAS Stagnation Increment — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for aas stagnation increment. Customize with your institution details.",
+    "description_te": "AAS Stagnation Increment blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "aas-stagnation-office-guide"
+    ],
+    "related_procedures": [
+      "aas-stagnation-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-aas-stagnation-office-guide.pdf"
+  },
+  {
+    "id": "tpl-aas-stagnation-step-by-step",
+    "title": "AAS Stagnation Increment — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for aas stagnation increment. Customize with your institution details.",
+    "description_te": "AAS Stagnation Increment blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "aas-stagnation-step-by-step"
+    ],
+    "related_procedures": [
+      "aas-stagnation-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-aas-stagnation-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-annual-increment-audit-ready",
+    "title": "Annual Increment — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for annual increment. Customize with your institution details.",
+    "description_te": "Annual Increment blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "annual-increment-audit-ready"
+    ],
+    "related_procedures": [
+      "annual-increment-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-annual-increment-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-annual-increment-cfms-workflow",
+    "title": "Annual Increment — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for annual increment. Customize with your institution details.",
+    "description_te": "Annual Increment blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "annual-increment-cfms-workflow"
+    ],
+    "related_procedures": [
+      "annual-increment-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-annual-increment-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-annual-increment-common-mistakes",
+    "title": "Annual Increment — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for annual increment. Customize with your institution details.",
+    "description_te": "Annual Increment blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "annual-increment-common-mistakes"
+    ],
+    "related_procedures": [
+      "annual-increment-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-annual-increment-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-annual-increment-ddo-checklist",
+    "title": "Annual Increment — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for annual increment. Customize with your institution details.",
+    "description_te": "Annual Increment blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "annual-increment-ddo-checklist"
+    ],
+    "related_procedures": [
+      "annual-increment-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-annual-increment-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-annual-increment-office-guide",
+    "title": "Annual Increment — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for annual increment. Customize with your institution details.",
+    "description_te": "Annual Increment blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "annual-increment-office-guide"
+    ],
+    "related_procedures": [
+      "annual-increment-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-annual-increment-office-guide.pdf"
+  },
+  {
+    "id": "tpl-annual-increment-step-by-step",
+    "title": "Annual Increment — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for annual increment. Customize with your institution details.",
+    "description_te": "Annual Increment blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "annual-increment-step-by-step"
+    ],
+    "related_procedures": [
+      "annual-increment-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-annual-increment-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-bcr-maintenance",
+    "title": "Budget Control Register (BCR) Maintenance — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for budget control register (bcr) maintenance. Customize with your institution details.",
+    "description_te": "Budget Control Register (BCR) Maintenance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "bcr-maintenance"
+    ],
+    "related_procedures": [
+      "bcr-maintenance-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-bcr-maintenance.pdf"
+  },
+  {
+    "id": "tpl-cfms-bill-processing",
+    "title": "CFMS Bill Processing Guide — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for cfms bill processing guide. Customize with your institution details.",
+    "description_te": "CFMS Bill Processing Guide blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "cfms-bill-processing"
+    ],
+    "related_procedures": [
+      "cfms-bill-processing-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-cfms-bill-processing.pdf"
+  },
+  {
+    "id": "tpl-contingent-bill-preparation",
+    "title": "Contingent Bill Preparation — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for contingent bill preparation. Customize with your institution details.",
+    "description_te": "Contingent Bill Preparation blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "contingent-bill-preparation"
+    ],
+    "related_procedures": [
+      "contingent-bill-preparation-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-contingent-bill-preparation.pdf"
+  },
+  {
+    "id": "tpl-delegation-financial-powers",
+    "title": "Delegation of Financial Powers Explained — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for delegation of financial powers explained. Customize with your institution details.",
+    "description_te": "Delegation of Financial Powers Explained blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "delegation-financial-powers"
+    ],
+    "related_procedures": [
+      "delegation-financial-powers-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-delegation-financial-powers.pdf"
+  },
+  {
+    "id": "tpl-e-procurement-rules",
+    "title": "E-Procurement Rules Above ₹1 Lakh — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for e-procurement rules above ₹1 lakh. Customize with your institution details.",
+    "description_te": "E-Procurement Rules Above ₹1 Lakh blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "e-procurement-rules"
+    ],
+    "related_procedures": [
+      "e-procurement-rules-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-e-procurement-rules.pdf"
+  },
+  {
+    "id": "tpl-macp-benefit-audit-ready",
+    "title": "MACP Benefit — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for macp benefit. Customize with your institution details.",
+    "description_te": "MACP Benefit blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "macp-benefit-audit-ready"
+    ],
+    "related_procedures": [
+      "macp-benefit-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-macp-benefit-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-macp-benefit-cfms-workflow",
+    "title": "MACP Benefit — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for macp benefit. Customize with your institution details.",
+    "description_te": "MACP Benefit blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "macp-benefit-cfms-workflow"
+    ],
+    "related_procedures": [
+      "macp-benefit-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-macp-benefit-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-macp-benefit-common-mistakes",
+    "title": "MACP Benefit — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for macp benefit. Customize with your institution details.",
+    "description_te": "MACP Benefit blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "macp-benefit-common-mistakes"
+    ],
+    "related_procedures": [
+      "macp-benefit-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-macp-benefit-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-macp-benefit-ddo-checklist",
+    "title": "MACP Benefit — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for macp benefit. Customize with your institution details.",
+    "description_te": "MACP Benefit blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "macp-benefit-ddo-checklist"
+    ],
+    "related_procedures": [
+      "macp-benefit-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-macp-benefit-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-macp-benefit-office-guide",
+    "title": "MACP Benefit — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for macp benefit. Customize with your institution details.",
+    "description_te": "MACP Benefit blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "macp-benefit-office-guide"
+    ],
+    "related_procedures": [
+      "macp-benefit-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-macp-benefit-office-guide.pdf"
+  },
+  {
+    "id": "tpl-macp-benefit-step-by-step",
+    "title": "MACP Benefit — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for macp benefit. Customize with your institution details.",
+    "description_te": "MACP Benefit blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "macp-benefit-step-by-step"
+    ],
+    "related_procedures": [
+      "macp-benefit-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-macp-benefit-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-ndc-certificate-audit-ready",
+    "title": "Non-Drawal Certificate — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for non-drawal certificate. Customize with your institution details.",
+    "description_te": "Non-Drawal Certificate blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "ndc-certificate-audit-ready"
+    ],
+    "related_procedures": [
+      "ndc-certificate-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-ndc-certificate-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-ndc-certificate-cfms-workflow",
+    "title": "Non-Drawal Certificate — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for non-drawal certificate. Customize with your institution details.",
+    "description_te": "Non-Drawal Certificate blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "ndc-certificate-cfms-workflow"
+    ],
+    "related_procedures": [
+      "ndc-certificate-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-ndc-certificate-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-ndc-certificate-common-mistakes",
+    "title": "Non-Drawal Certificate — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for non-drawal certificate. Customize with your institution details.",
+    "description_te": "Non-Drawal Certificate blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "ndc-certificate-common-mistakes"
+    ],
+    "related_procedures": [
+      "ndc-certificate-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-ndc-certificate-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-ndc-certificate-ddo-checklist",
+    "title": "Non-Drawal Certificate — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for non-drawal certificate. Customize with your institution details.",
+    "description_te": "Non-Drawal Certificate blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "ndc-certificate-ddo-checklist"
+    ],
+    "related_procedures": [
+      "ndc-certificate-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-ndc-certificate-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-ndc-certificate-office-guide",
+    "title": "Non-Drawal Certificate — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for non-drawal certificate. Customize with your institution details.",
+    "description_te": "Non-Drawal Certificate blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "ndc-certificate-office-guide"
+    ],
+    "related_procedures": [
+      "ndc-certificate-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-ndc-certificate-office-guide.pdf"
+  },
+  {
+    "id": "tpl-ndc-certificate-step-by-step",
+    "title": "Non-Drawal Certificate — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for non-drawal certificate. Customize with your institution details.",
+    "description_te": "Non-Drawal Certificate blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "ndc-certificate-step-by-step"
+    ],
+    "related_procedures": [
+      "ndc-certificate-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-ndc-certificate-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-pay-fixation-promotion-audit-ready",
+    "title": "Pay Fixation on Promotion — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for pay fixation on promotion. Customize with your institution details.",
+    "description_te": "Pay Fixation on Promotion blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "pay-fixation-promotion-audit-ready"
+    ],
+    "related_procedures": [
+      "pay-fixation-promotion-audit-ready-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-pay-fixation-promotion-audit-ready.pdf"
+  },
+  {
+    "id": "tpl-pay-fixation-promotion-cfms-workflow",
+    "title": "Pay Fixation on Promotion — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for pay fixation on promotion. Customize with your institution details.",
+    "description_te": "Pay Fixation on Promotion blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "pay-fixation-promotion-cfms-workflow"
+    ],
+    "related_procedures": [
+      "pay-fixation-promotion-cfms-workflow-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-pay-fixation-promotion-cfms-workflow.pdf"
+  },
+  {
+    "id": "tpl-pay-fixation-promotion-common-mistakes",
+    "title": "Pay Fixation on Promotion — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for pay fixation on promotion. Customize with your institution details.",
+    "description_te": "Pay Fixation on Promotion blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "pay-fixation-promotion-common-mistakes"
+    ],
+    "related_procedures": [
+      "pay-fixation-promotion-common-mistakes-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-pay-fixation-promotion-common-mistakes.pdf"
+  },
+  {
+    "id": "tpl-pay-fixation-promotion-ddo-checklist",
+    "title": "Pay Fixation on Promotion — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for pay fixation on promotion. Customize with your institution details.",
+    "description_te": "Pay Fixation on Promotion blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "pay-fixation-promotion-ddo-checklist"
+    ],
+    "related_procedures": [
+      "pay-fixation-promotion-ddo-checklist-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-pay-fixation-promotion-ddo-checklist.pdf"
+  },
+  {
+    "id": "tpl-pay-fixation-promotion-office-guide",
+    "title": "Pay Fixation on Promotion — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for pay fixation on promotion. Customize with your institution details.",
+    "description_te": "Pay Fixation on Promotion blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "pay-fixation-promotion-office-guide"
+    ],
+    "related_procedures": [
+      "pay-fixation-promotion-office-guide-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-pay-fixation-promotion-office-guide.pdf"
+  },
+  {
+    "id": "tpl-pay-fixation-promotion-step-by-step",
+    "title": "Pay Fixation on Promotion — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for pay fixation on promotion. Customize with your institution details.",
+    "description_te": "Pay Fixation on Promotion blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "pay-fixation-promotion-step-by-step"
+    ],
+    "related_procedures": [
+      "pay-fixation-promotion-step-by-step-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-pay-fixation-promotion-step-by-step.pdf"
+  },
+  {
+    "id": "tpl-store-purchase-procedure",
+    "title": "Store Purchase Procedure under AP Financial Code — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for store purchase procedure under ap financial code. Customize with your institution details.",
+    "description_te": "Store Purchase Procedure under AP Financial Code blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "store-purchase-procedure"
+    ],
+    "related_procedures": [
+      "store-purchase-procedure-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-store-purchase-procedure.pdf"
+  },
+  {
+    "id": "tpl-treasury-objections",
+    "title": "Treasury Objections and How to Avoid Them — Proceedings Template",
+    "category": "finance",
+    "description": "Blank proceedings / office note format for treasury objections and how to avoid them. Customize with your institution details.",
+    "description_te": "Treasury Objections and How to Avoid Them blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "treasury-objections"
+    ],
+    "related_procedures": [
+      "treasury-objections-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-treasury-objections.pdf"
+  },
+  {
+    "id": "tpl-gpf-advance",
+    "title": "GPF Advance Procedure — Proceedings Template",
+    "category": "gpf",
+    "description": "Blank proceedings / office note format for gpf advance procedure. Customize with your institution details.",
+    "description_te": "GPF Advance Procedure blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "gpf-advance"
+    ],
+    "related_procedures": [
+      "gpf-advance-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-gpf-advance.pdf"
+  },
+  {
+    "id": "tpl-gpf-final-settlement",
+    "title": "Final GPF Settlement Process — Proceedings Template",
+    "category": "gpf",
+    "description": "Blank proceedings / office note format for final gpf settlement process. Customize with your institution details.",
+    "description_te": "Final GPF Settlement Process blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "gpf-final-settlement"
+    ],
+    "related_procedures": [
+      "gpf-final-settlement-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-gpf-final-settlement.pdf"
+  },
+  {
+    "id": "tpl-gpf-missing-credits",
+    "title": "Missing GPF Credits – What to Do — Proceedings Template",
+    "category": "gpf",
+    "description": "Blank proceedings / office note format for missing gpf credits – what to do. Customize with your institution details.",
+    "description_te": "Missing GPF Credits – What to Do blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "gpf-missing-credits"
+    ],
+    "related_procedures": [
+      "gpf-missing-credits-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-gpf-missing-credits.pdf"
+  },
+  {
+    "id": "tpl-gpf-nomination-corrections",
+    "title": "GPF Nomination and Corrections — Proceedings Template",
+    "category": "gpf",
+    "description": "Blank proceedings / office note format for gpf nomination and corrections. Customize with your institution details.",
+    "description_te": "GPF Nomination and Corrections blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "gpf-nomination-corrections"
+    ],
+    "related_procedures": [
+      "gpf-nomination-corrections-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-gpf-nomination-corrections.pdf"
+  },
+  {
+    "id": "tpl-gpf-withdrawal-rules",
+    "title": "GPF Withdrawal Rules — Proceedings Template",
+    "category": "gpf",
+    "description": "Blank proceedings / office note format for gpf withdrawal rules. Customize with your institution details.",
+    "description_te": "GPF Withdrawal Rules blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "gpf-withdrawal-rules"
+    ],
+    "related_procedures": [
+      "gpf-withdrawal-rules-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-gpf-withdrawal-rules.pdf"
+  },
+  {
+    "id": "tpl-apmsidc-procurement",
+    "title": "APMSIDC Procurement Workflow — Proceedings Template",
+    "category": "health",
+    "description": "Blank proceedings / office note format for apmsidc procurement workflow. Customize with your institution details.",
+    "description_te": "APMSIDC Procurement Workflow blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "apmsidc-procurement"
+    ],
+    "related_procedures": [
+      "apmsidc-procurement-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-apmsidc-procurement.pdf"
+  },
+  {
+    "id": "tpl-biomedical-waste-compliance",
+    "title": "Biomedical Waste Compliance Checklist — Proceedings Template",
+    "category": "health",
+    "description": "Blank proceedings / office note format for biomedical waste compliance checklist. Customize with your institution details.",
+    "description_te": "Biomedical Waste Compliance Checklist blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "biomedical-waste-compliance"
+    ],
+    "related_procedures": [
+      "biomedical-waste-compliance-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-biomedical-waste-compliance.pdf"
+  },
+  {
+    "id": "tpl-dha-responsibilities",
+    "title": "District Hospital Administrative Officer Respons — Proceedings Template",
+    "category": "health",
+    "description": "Blank proceedings / office note format for district hospital administrative officer respons. Customize with your institution details.",
+    "description_te": "District Hospital Administrative Officer Respons blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "dha-responsibilities"
+    ],
+    "related_procedures": [
+      "dha-responsibilities-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-dha-responsibilities.pdf"
+  },
+  {
+    "id": "tpl-hospital-condemnation",
+    "title": "Hospital Condemnation Procedure — Proceedings Template",
+    "category": "health",
+    "description": "Blank proceedings / office note format for hospital condemnation procedure. Customize with your institution details.",
+    "description_te": "Hospital Condemnation Procedure blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "hospital-condemnation"
+    ],
+    "related_procedures": [
+      "hospital-condemnation-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-hospital-condemnation.pdf"
+  },
+  {
+    "id": "tpl-outsourcing-staff-management",
+    "title": "Outsourcing Staff Management Guidelines — Proceedings Template",
+    "category": "health",
+    "description": "Blank proceedings / office note format for outsourcing staff management guidelines. Customize with your institution details.",
+    "description_te": "Outsourcing Staff Management Guidelines blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "outsourcing-staff-management"
+    ],
+    "related_procedures": [
+      "outsourcing-staff-management-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-outsourcing-staff-management.pdf"
+  },
+  {
+    "id": "tpl-child-care-leave",
+    "title": "Child Care Leave Guidelines — Proceedings Template",
+    "category": "leave",
+    "description": "Blank proceedings / office note format for child care leave guidelines. Customize with your institution details.",
+    "description_te": "Child Care Leave Guidelines blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "child-care-leave"
+    ],
+    "related_procedures": [
+      "child-care-leave-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-child-care-leave.pdf"
+  },
+  {
+    "id": "tpl-commuted-leave-rules",
+    "title": "Commuted Leave Procedure — Proceedings Template",
+    "category": "leave",
+    "description": "Blank proceedings / office note format for commuted leave procedure. Customize with your institution details.",
+    "description_te": "Commuted Leave Procedure blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "commuted-leave-rules"
+    ],
+    "related_procedures": [
+      "commuted-leave-rules-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-commuted-leave-rules.pdf"
+  },
+  {
+    "id": "tpl-earned-leave-rules",
+    "title": "Earned Leave Rules Explained — Proceedings Template",
+    "category": "leave",
+    "description": "Blank proceedings / office note format for earned leave rules explained. Customize with your institution details.",
+    "description_te": "Earned Leave Rules Explained blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "earned-leave-rules"
+    ],
+    "related_procedures": [
+      "earned-leave-rules-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-earned-leave-rules.pdf"
+  },
+  {
+    "id": "tpl-extraordinary-leave",
+    "title": "Extraordinary Leave Procedure — Proceedings Template",
+    "category": "leave",
+    "description": "Blank proceedings / office note format for extraordinary leave procedure. Customize with your institution details.",
+    "description_te": "Extraordinary Leave Procedure blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "extraordinary-leave"
+    ],
+    "related_procedures": [
+      "extraordinary-leave-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-extraordinary-leave.pdf"
+  },
+  {
+    "id": "tpl-half-pay-leave-procedure",
+    "title": "Half Pay Leave Procedure — Proceedings Template",
+    "category": "leave",
+    "description": "Blank proceedings / office note format for half pay leave procedure. Customize with your institution details.",
+    "description_te": "Half Pay Leave Procedure blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "half-pay-leave-procedure"
+    ],
+    "related_procedures": [
+      "half-pay-leave-procedure-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-half-pay-leave-procedure.pdf"
+  },
+  {
+    "id": "tpl-leave-account-maintenance",
+    "title": "Leave Account Maintenance — Proceedings Template",
+    "category": "leave",
+    "description": "Blank proceedings / office note format for leave account maintenance. Customize with your institution details.",
+    "description_te": "Leave Account Maintenance blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "leave-account-maintenance"
+    ],
+    "related_procedures": [
+      "leave-account-maintenance-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-leave-account-maintenance.pdf"
+  },
+  {
+    "id": "tpl-leave-encashment-rules",
+    "title": "Leave Encashment Rules — Proceedings Template",
+    "category": "leave",
+    "description": "Blank proceedings / office note format for leave encashment rules. Customize with your institution details.",
+    "description_te": "Leave Encashment Rules blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "leave-encashment-rules"
+    ],
+    "related_procedures": [
+      "leave-encashment-rules-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-leave-encashment-rules.pdf"
+  },
+  {
+    "id": "tpl-maternity-leave-rules",
+    "title": "Maternity Leave Rules (Latest Amendments) — Proceedings Template",
+    "category": "leave",
+    "description": "Blank proceedings / office note format for maternity leave rules (latest amendments). Customize with your institution details.",
+    "description_te": "Maternity Leave Rules (Latest Amendments) blank format.",
+    "usage_notes": "Fill all blanks; cite appointment order and rule numbers; verify GO on GOIR before issue.",
+    "related_articles": [
+      "maternity-leave-rules"
+    ],
+    "related_procedures": [
+      "maternity-leave-rules-procedure"
+    ],
+    "file_pdf": "/downloads/templates/tpl-maternity-leave-rules.pdf"
+  }
+]
