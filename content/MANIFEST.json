@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-17T17:37:43.944Z",
+  "generated_at": "2026-07-05T14:22:52.482Z",
   "copyright": "Original OfficeMitra content — not copied from third-party sites",
-  "notice": "content/ORIGINAL-CONTENT-NOTICE.md",
+  "notice": "Cleared for V1 testing — add content via Admin CMS.",
   "counts": {
-    "articles": 140,
-    "procedures": 140,
-    "updates": 140,
-    "documents": 140,
-    "templates": 140,
-    "faq": 140,
-    "glossary": 140
+    "articles": 0,
+    "procedures": 0,
+    "updates": 0,
+    "documents": 0,
+    "templates": 0,
+    "faq": 0,
+    "glossary": 0
   },
   "paths": {
     "articles": "content/articles/**/*.md",
